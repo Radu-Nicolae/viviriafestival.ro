@@ -9,7 +9,7 @@
     <!-- keywords -->
     <meta name="keywords" content="creative, modern, clean, bootstrap responsive, html5, css3, portfolio, blog, agency, templates, multipurpose, one page, corporate, start-up, studio, branding, designer, freelancer, carousel, parallax, photography, personal, masonry, grid, faq">
 
-    <title>Wixer | One Page Parallax</title>
+    <title>Viviria Festival</title>
 
     <!-- Favicon -->
     <link rel="icon" href="images/favicon.png">
