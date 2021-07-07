@@ -31,7 +31,7 @@
                         <li class="nav-item mega-menu active"> <a href="javascript:void(0)" class="nav-link link">Invitati </a> </li>
                         <li class="nav-item mega-menu active"> <a href="javascript:void(0)" class="nav-link link">Blog </a> </li>
                         <li class="nav-item mega-menu active"> <a href="javascript:void(0)" class="nav-link link">Contact </a> </li>                      
-                        <li class="nav-item mega-menu active"> <a href="javascript:void(0)" class="nav-link link"><span class="join-us-navbar">Alatura-te</span></a> </li>                      
+                        <li class="nav-item mega-menu active"> <a href="javascript:void(0)" class="nav-link link"><span class="join-us-navbar">coming soon</span></a> </li>                      
                     </ul>
                 </div>
 

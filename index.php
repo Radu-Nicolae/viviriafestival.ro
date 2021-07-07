@@ -109,7 +109,7 @@
                              data-frames='[{"delay":600,"speed":2000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:40px;","to":"o:1;fb:0;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
                              data-textAlign="['center','center','center','center']"
                              style="z-index:99; max-width: 960px">
-                            <a href="#features" class="scroll btn-setting btn-hvr-setting-main btn-summer-sky color-white btn-hvr link">get started
+                            <a href="#features" class="scroll btn-setting btn-hvr-setting-main btn-summer-sky color-white btn-hvr link">coming soon
                                 <span class="btn-hvr-setting btn-hvr-white">
 						     <span class="btn-hvr-setting-inner">
 							 <span class="btn-hvr-effect"></span>
@@ -137,26 +137,27 @@
             <div class="row">
                 <div class="container">
                     <div class="main-title wow fadeIn" data-wow-delay="300ms">
-                        <h5> Amazing creativity </h5>
-                        <h2> Adorable features </h2>
-                        <p>Curabitur mollis bibendum luctus. Duis suscipit vitae dui sed suscipit. Vestibulum auctor nunc vitae diam eleifend, in maximus metus sollicitudin. Quisque vitae sodales lectus. Nam porttitor justo sed mi finibus, vel tristique risus faucibus. </p>
+                        <h5 style="text-transform: none !important;"> Festival de Literatură  </h5>
+                        <h2> Viviria </h2>
+                        <p><b>De ce Viviria?</b> Pentru că este plin de viață: aici vei întâlni adolescenți ca tine, veseli, creativi, deschiși.  <br> <br> <b>De ce festival?</b> Pentru că festival înseamnă oameni împreună, interacționând neîncetat, indiferent dacă au cărți și articole publicate sau doar câteva drafturi în laptop. <br><br> <b>De ce Viviria Festival?</b> Pentru că poate fi ocazia ta să scoți din buzunar ideile pe care le ai, să le pui pe foaie și cu ajutorul mentorilor întâlniți aici să-ți definești stilul în care scrii. Proză, poezie, jurnalism sau scenaristică? Sau poate toate? Înscrie-te la Viviria și află ce ți se potrivește!
+                        </p>
                     </div>
                 </div>
             </div>
             <div class="row align-items-center">
                 <div class="col-lg-6 col-md-6 col-sm-12 d-xs-none wow fadeInLeft">
                     <div class="text-center">
-                        <img alt="features" src="images/features2.png">
+                        <img alt="features" src="images/envelope.jpeg">
                     </div>
                 </div>
                 <div class="col-lg-5 col-md-6 col-sm-12 mx-auto wow fadeInRight">
                     <div class="feature-item mt-0">
                         <div class="laptop-features-icon">
-                            <span class="icon"><i class="ti ti-image color-summer-sky"></i></span>
+                            <span class="icon"><i class="ti ti-palette color-summer-sky"></i></span>
                         </div>
                         <div class="features-content">
-                            <h4 class="color-black font-weight-normal mb-10px">Unique Layout</h4>
-                            <p>A robust, multipurpose template built with modularity at the core.</p>
+                            <h4 class="color-black font-weight-normal mb-10px">Participanți</h4>
+                            <p>Participanții sunt ca mine și ca tine, liceeni care s-au apucat de scris și care vor să afle ce pot face mai departe cu gândurile neînțelese din Notes. </p>
                         </div>
                     </div>
                     <div class="feature-item">
@@ -164,8 +165,8 @@
                             <span class="icon"><i class="ti ti-timer color-yellow"></i></span>
                         </div>
                         <div class="features-content">
-                            <h4 class="color-black font-weight-normal mb-10px">Online Live Support</h4>
-                            <p>You can build your site in-browser with modular interface blocks.</p>
+                            <h4 class="color-black font-weight-normal mb-10px">Mentori</h4>
+                            <p>Mentorii sunt oameni care scriu de ceva timp și a căror muncă o găsești în publicații, în librării, în filme sau pe internet; experiența și curajul lor te pot inspira în ceea ce faci.</p>
                         </div>
                     </div>
                     <div class="feature-item mb-xs-0">
@@ -173,8 +174,8 @@
                             <span class="icon"><i class="ti ti-tablet color-green"></i></span>
                         </div>
                         <div class="features-content">
-                            <h4 class="color-black font-weight-normal mb-10px">Responsive Design</h4>
-                            <p>There are many variations of passages of Lorem Ipsum available.</p>
+                            <h4 class="color-black font-weight-normal mb-10px">Speakeri</h4>
+                            <p>Speakerii au nu doar experiență, dar și talentul să o împărtășească cu alții; sunt oameni dedicați, pe care îți va plăcea să-i asculți.</p>
                         </div>
                     </div>
 
