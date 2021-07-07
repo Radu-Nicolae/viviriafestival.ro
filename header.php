@@ -1,20 +1,20 @@
 <!-- Header start -->
     <style>
         .join-us-navbar{
-            color: #24c1dd;
+            color: #d0920e;
             font-weight: 800;
-            border: 2px solid #24c1dd;
+            border: 2px solid #d0920e;
             padding: 15px !important;
             border-radius: 50px;
         }
         .join-us-navbar:hover{
             color: white;
-            background-color: #24c1dd;
+            background-color: #d0920e;
             transition: 300ms;
         }
 
         .nav-link:hover{
-            color:#24c1dd !important;
+            color:#d0920e !important;
             transition: 300ms;
         }
     </style>

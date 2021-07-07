@@ -2689,7 +2689,7 @@ opacity:1
 .wixer .tp-bullet.selected .tp-bullet-inner{
     transform: scale(1.4);
     margin-top:2px;
-    background: #24c1dd;
+    background: #d0920e;
     -webkit-transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -ms-transition: all .5s ease-in-out;

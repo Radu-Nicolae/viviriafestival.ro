@@ -32,7 +32,7 @@
 }
 
 .multipage ul li.active > a {
-  color: #24c1dd;
+  color: #d0920e;
 }
 .multipage ul li ul {
   position: absolute;
@@ -171,7 +171,7 @@
   padding-bottom: 8px;
 }
 .multipage ul li.mega-menu > ul > li ul li a:hover {
- color: #24c1dd;
+ color: #d0920e;
  margin-left:8px;
  transition: all 0.2s ease-out 0s;
 }
@@ -226,7 +226,7 @@
     border: none !important;
   }
   .multipage ul li:hover > a {
-    color: #24c1dd;
+    color: #d0920e;
   }
 
   .multipage ul li ul li:hover > ul {
@@ -247,7 +247,7 @@
 
 
   .multipage #menu ul li ul li > a:before {
-    background-color: #24c1dd;
+    background-color: #d0920e;
     content: "";
     position: absolute;
     left: auto;
@@ -266,7 +266,7 @@
     width: 100%
   }
   .multipage #menu ul li ul li:hover > a {
-    color: #24c1dd;
+    color: #d0920e;
   }
   .multipage #menu ul li ul li a {
     color: #18191d;
