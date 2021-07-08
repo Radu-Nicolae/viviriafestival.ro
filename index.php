@@ -94,7 +94,7 @@
                          data-transform_out="s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
                          data-start="1000" data-splitin="none" data-splitout="none"
                          style="z-index:3; font-weight: 100; color: #ffffff;font-family: 'Poppins', sans-serif;text-transform:capitalize">
-                        8-9 septembrie
+                        vara aceasta
                     </div>
                     <div class="tp-caption tp-resizeme"
                          data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
@@ -110,7 +110,7 @@
                          data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
                          data-start="1500" data-splitin="none" data-splitout="none"
                          style="z-index:4; font-weight: 100; color: #ffffff; line-height:30px; font-family: 'Poppins', sans-serif;text-transform:capitalize">
-                        in parcul herastrau incepand cu ora 11:00
+                        in curand mai multe detalii
                     </div>
                     <div class="tp-caption tp-resizeme"
                          id="slide-24-layer-128" data-x="['center','center','center','center']"
@@ -504,45 +504,54 @@
             <div class="col-md-12">
                 <div class="main-title wow fadeIn" data-wow-delay="300ms">
                     <h5> Literatură | Viață | Creație </h5>
-                    <h2> Vivira </h2>
+                    <h2> Viviria </h2>
                     <ul style="font-size: 150%; padding-left: 20%; padding-right: 20%; text-align: center;">
+                        <style>
+                            .spanLetters{
+                                color: #d0920e; 
+                                font-weight: 700; 
+                                font-size: 150%;
+                                padding-right: 1px;
+                            }
+                        </style>
+
                         <li>
-                            <span style="color: #d0920e; font-weight: 700">V</span>iață - lume care enjoyește viața așa
+                            <span class="spanLetters">V</span>iață - lume care enjoyește viața așa
                             cum e
                         </li>
                         <br>
                         <li>
-                            <span style="color: #d0920e; font-weight: 700">I</span>nspirație să scrii mai departe și să
+                            <span class="spanLetters">I</span>nspirație să scrii mai departe și să
                             experimentezi arii artistice noi
                         </li>
                         <br>
                         <li>
-                            <span style="color: #d0920e; font-weight: 700">V</span>eselie - nu poți veni la festival
+                            <span class="spanLetters">V</span>eselie - nu poți veni la festival
                             decât echipat cu multă voie bună
                         </li>
                         <br>
                         <li>
-                            <span style="color: #d0920e;; font-weight: 700">I</span>dei noi - sigur vei da peste
+                            <span class="spanLetters">I</span>dei noi - sigur vei da peste
                             concepte, personalități, autori și texte <br>de care nu ai auzit până acum, așadar o mulțime
                             de
                             idei noi
                         </li>
                         <br>
                         <li>
-                            <span style="color: #d0920e;; font-weight: 700">R</span>isc - fie că vei recita sau vei
+                            <span class="spanLetters">R</span>isc - fie că vei recita sau vei
                             prezenta în fața altora ideile tale, <br> îți vei asuma risc(uri), noi te asigurăm că nu vei
                             regreta
                         </li>
                         <br>
                         <li>
-                            <span style="color: #d0920e;; font-weight: 700">I</span>upi! avem festival - a fost
+                            <span class="spanLetters">I</span>upi! avem festival - a fost
                             pandemie, am avut clubul de scris online,<br> am participat la evenimente pe zoom, e cazul
                             să ne
                             vedem față în față
                         </li>
                         <br>
                         <li>
-                            <span style="color: #d0920e;; font-weight: 700">A</span>vans - așa cum scrii acum e foarte
+                            <span class="spanLetters">A</span>vans - așa cum scrii acum e foarte
                             bine, deja credem asta despre tine; <br> dar ca să crești e nevoie să primești feedback, să
                             asculți alte texte, <br> să afli tendințe și metode noi de scriere
                         </li>
