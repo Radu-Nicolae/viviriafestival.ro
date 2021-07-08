@@ -5,7 +5,7 @@
 
 <body data-spy="scroll" data-target=".navbar-nav" data-offset="90">
 
-<!--    --><?php //include 'loader.php' ?>
+<!--    --><?php include 'loader.php' ?>
 
 
 <?php include 'header.php' ?>
