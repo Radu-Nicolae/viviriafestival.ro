@@ -285,9 +285,9 @@
                 <div id="js-grid-mosaic" class="cbp cbp-l-grid-mosaic no-transition">
 
                     <div class="cbp-item graphic portfolio-img wow fadeInUp" data-wow-delay="250ms">
-                        <a href="images/portfolio2.jpg" class="cbp-caption cbp-lightbox" data-title="">
+                        <a href="poezie.php" class="cbp-caption cbp-lightbox" data-title="">
                             <div class="cbp-caption-defaultWrap">
-                                <img src="images/portfolio2.jpg" alt="">
+                                <img src="images/poezie.jpeg" alt="">
                             </div>
                             <div class="cbp-caption-activeWrap summer-sky portfolio-hover-effect"><i
                                         class="ti-zoom-in"></i></div>
@@ -298,9 +298,9 @@
                     </div>
 
                     <div class="cbp-item motion portfolio-img even wow fadeInUp" data-wow-delay="300ms">
-                        <a href="images/portfolio1.jpg" class="cbp-caption cbp-lightbox" data-title="">
+                        <a href="proza.php" class="cbp-caption cbp-lightbox" data-title="">
                             <div class="cbp-caption-defaultWrap">
-                                <img src="images/portfolio1.jpg" alt="">
+                                <img src="images/proza.jpeg" alt="">
                             </div>
                             <div class="cbp-caption-activeWrap summer-sky portfolio-hover-effect"><i
                                         class="ti-zoom-in"></i></div>
@@ -311,9 +311,9 @@
                     </div>
 
                     <div class="cbp-item print web-design even portfolio-img wow fadeInUp" data-wow-delay="350ms">
-                        <a href="images/portfolio4.jpg" class="cbp-caption cbp-lightbox" data-title="">
+                        <a href="jurnalism.php" class="cbp-caption cbp-lightbox" data-title="">
                             <div class="cbp-caption-defaultWrap">
-                                <img src="images/portfolio4.jpg" alt="">
+                                <img src="images/jurnalism.jpeg" alt="">
                             </div>
                             <div class="cbp-caption-activeWrap summer-sky portfolio-hover-effect"><i
                                         class="ti-zoom-in"></i></div>
@@ -324,9 +324,9 @@
                     </div>
 
                     <div class="cbp-item web-design portfolio-img wow fadeInUp" data-wow-delay="400ms">
-                        <a href="images/portfolio3.jpg" class="cbp-caption cbp-lightbox" data-title="">
+                        <a href="scenaristica.php" class="cbp-caption cbp-lightbox" data-title="">
                             <div class="cbp-caption-defaultWrap">
-                                <img src="images/portfolio3.jpg" alt="">
+                                <img src="images/scenaristica.jpeg" alt="">
                             </div>
                             <div class="cbp-caption-activeWrap summer-sky portfolio-hover-effect"><i
                                         class="ti-zoom-in"></i></div>
@@ -462,7 +462,8 @@
             <div class="col-lg-6 col-md-12 col-sm-12 mb-5 wow fadeInUp" data-wow-delay="400ms">
                 <div class="contact-box-shadow">
                     <div class="text-left sm-text-center w-100">
-                        <h2 class="color-black font-weight-normal mb-2rem text-capitalize"> Participa la Vivira Festival!</h2>
+                        <h2 class="color-black font-weight-normal mb-2rem text-capitalize"> Participa la Vivira
+                            Festival!</h2>
                         <p class="contact-para-setting">
                             Curabitur mollis bibendum luctus. Duis suscipit vitae dui sed suscipit. Vestibulum auctor
                             nunc vitae diam eleifend.
@@ -500,15 +501,38 @@
                 <div class="main-title wow fadeIn" data-wow-delay="300ms">
                     <h5> Literatură | Viață | Creație </h5>
                     <h2> Vivira </h2>
-                    <ul>
+                    <ul style="font-size: 150%; padding-left: 20%; padding-right: 20%; text-align: center;">
                         <li>
-                            <span style="color: #d0920e; font-weight: 700">V:</span> viață - lume care enjoyește viața așa cum e
-                        </li>
+                            <span style="color: #d0920e; font-weight: 700">V</span>iață - lume care enjoyește viața așa
+                            cum e
+                        </li> <br>
                         <li>
-                            <span style="color: #d0920e; font-weight: 700">I:</span> inspirație să scrii mai departe și să experimentezi arii artistice noi
-                        </li>
+                            <span style="color: #d0920e; font-weight: 700">I</span>nspirație să scrii mai departe și să
+                            experimentezi arii artistice noi
+                        </li> <br>
                         <li>
-                            <span style="color: #d0920e; font-weight: 700">V:</span> veselie - nu poți veni la festival decât echipat cu multă voie bună
+                            <span style="color: #d0920e; font-weight: 700">V</span>eselie - nu poți veni la festival
+                            decât echipat cu multă voie bună
+                        </li> <br>
+                        <li>
+                            <span style="color: #d0920e;; font-weight: 700">I</span>dei noi - sigur vei da peste
+                            concepte, personalități, autori și texte <br>de care nu ai auzit până acum, așadar o mulțime de
+                            idei noi
+                        </li> <br>
+                        <li>
+                            <span style="color: #d0920e;; font-weight: 700">R</span>isc - fie că vei recita sau vei
+                            prezenta în fața altora ideile tale, <br> îți vei asuma risc(uri), noi te asigurăm că nu vei
+                            regreta
+                        </li> <br>
+                        <li>
+                            <span style="color: #d0920e;; font-weight: 700">I</span>upi! avem festival - a fost
+                            pandemie, am avut clubul de scris online,<br> am participat la evenimente pe zoom, e cazul să ne
+                            vedem față în față
+                        </li> <br>
+                        <li>
+                            <span style="color: #d0920e;; font-weight: 700">A</span>vans - așa cum scrii acum e foarte
+                            bine, deja credem asta despre tine; <br> dar ca să crești e nevoie să primești feedback, să
+                            asculți alte texte, <br>  să afli tendințe și metode noi de scriere
                         </li>
                     </ul>
                 </div>
@@ -522,41 +546,16 @@
                 <div class="company-contact-form">
                     <form class="contact-form-outer" onsubmit="return false;">
                         <div class="row">
-                            <div class="col-md-6 col-sm-12">
-                                <div class="contact-form-textfield pb-4">
-                                    <input type="text" placeholder="Name" class="form-control" required="" id="name"
-                                           name="name">
-                                </div>
-                            </div>
-                            <div class="col-md-6 col-sm-12">
-                                <div class="contact-form-textfield pb-4">
-                                    <input type="email" placeholder="Email" class="form-control" required=""
-                                           id="email" name="email">
-                                </div>
-                            </div>
-                            <div class="col-md-6 col-sm-12">
-                                <div class="contact-form-textfield pb-4">
-                                    <input type="tel" placeholder="Contact No" class="form-control" id="phone"
-                                           name="phone">
-                                </div>
-                            </div>
-                            <div class="col-md-6 col-sm-12">
-                                <div class="contact-form-textfield pb-4">
-                                    <input type="text" placeholder="Subject" class="form-control" id="subject"
-                                           name="subject">
-                                </div>
-                            </div>
-                            <div class="col-lg-12">
-                                <div class="contact-form-textfield pb-4">
-                                        <textarea placeholder="Message" class="form-control message" id="message"
-                                                  name="message"></textarea>
-                                </div>
-                            </div>
-                            <div class="col-lg-12 pt-xs-25px text-center">
+                            <style>
+                                .join-us-contact {
+                                    font-size: 200%;
+                                }
+                            </style>
+                            <div class="col-lg-12 pt-xs-25px text-center join-us-contact">
                                 <button type="submit" class="btn-setting btn-hvr-setting-main btn-yellow btn-hvr"
                                         id="submit_btn"><i class="ti ti-reload ti-reload mr-2 d-none"
-                                                           aria-hidden="true"></i><b class="font-weight-normal">Contact
-                                        Now</b>
+                                                           aria-hidden="true"></i><b class="font-weight-normal">Coming
+                                        soon</b>
                                     <span class="btn-hvr-setting btn-hvr-summer-sky">
                                  <span class="btn-hvr-setting-inner">
                                  <span class="btn-hvr-effect"></span>
@@ -576,99 +575,7 @@
 </section>
 <!-- Contact & Map ends -->
 
-<!-- Footer starts -->
-<footer class="p-half bg-black2">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 col-sm-12 text-center">
-                <ul class="footer-icons mb-4">
-                    <li><a href="javascript:void(0)" class="wow fadeInUp facebook"><i class="ti ti-facebook"></i> </a>
-                    </li>
-                    <li><a href="javascript:void(0)" class="wow fadeInDown twitter"><i class="ti ti-twitter"></i> </a>
-                    </li>
-                    <li><a href="javascript:void(0)" class="wow fadeInUp google"><i class="ti ti-google"></i> </a></li>
-                    <li><a href="javascript:void(0)" class="wow fadeInDown linkedin"><i class="ti ti-linkedin"></i> </a>
-                    </li>
-                    <li><a href="javascript:void(0)" class="wow fadeInUp instagram"><i class="ti ti-instagram"></i> </a>
-                    </li>
-                    <li><a href="javascript:void(0)" class="wow fadeInDown pinterest"><i class="ti ti-pinterest"></i>
-                        </a></li>
-                </ul>
-                <p class="copyrights mt-2 mb-2" style="color: white">Copyright ©
-                    <script>document.write(new Date().getFullYear());</script>
-                    All rights reserved | <a href="https://radu-nicolae.com" style="color: white !important; font-weight: 400 !important;text-decoration: underline !important;">Radu Nicolae</a> and <a style="color: white !important; font-weight: 400;text-decoration: underline !important;" href="https://luanaionica.com">Luana Ionica</a>
-                </p>
-            </div>
-        </div>
-    </div>
-</footer>
-<!-- Footer ends -->
 
-<!--Animated Cursor-->
-<div id="animated-cursor">
-    <div id="cursor">
-        <div id="cursor-loader"></div>
-    </div>
-</div>
-<!--Animated Cursor End-->
-
-<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<script src="js/jquery-3.3.1.min.js"></script>
-<!-- Bootstrap JS File -->
-<script src="js/popper.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<!-- Morphtext JS File -->
-<script src="js/morphext.min.js"></script>
-<!-- Flip JS File -->
-<script src="js/jquery.flip.min.js"></script>
-<!-- Appear JS File -->
-<script src="js/jquery.appear.js"></script>
-<!-- Isotop gallery -->
-<script src="js/isotope.pkgd.min.js"></script>
-<!-- Cube Portfolio JS File -->
-<script src="js/jquery.cubeportfolio.min.js"></script>
-<!-- Equal Height JS File -->
-<script src="js/jquery.matchHeight-min.js"></script>
-<!--Parallax Background-->
-<script src="js/parallaxie.min.js"></script>
-<!-- Fancy Box JS File -->
-<script src="js/jquery.fancybox.min.js"></script>
-<!-- Swiper JS File -->
-<script src="js/swiper.min.js"></script>
-<!-- Owl Carousel JS File -->
-<script src="js/owl.carousel.js"></script>
-<!-- Wow JS File -->
-<script src="js/wow.js"></script>
-<!-- Tween Max Animation File -->
-<script src="js/TweenMax.min.js"></script>
-<!-- Megamenu Js File -->
-<script src="js/megamenu.js"></script>
-<!-- Headroom Nav File -->
-<script src="js/headroom.js"></script>
-
-<!--Revolution Slider-->
-<script src="js/revolution/jquery.themepunch.tools.min.js"></script>
-<script src="js/revolution/jquery.themepunch.revolution.min.js"></script>
-<script src="js/revolution/jquery.themepunch.revolution.contdown.min.js"></script>
-
-<!-- SLIDER REVOLUTION 5.0 EXTENSIONS  (Load Extensions only on Local File Systems !  The following part can be removed on Server for On Demand Loading) -->
-<script src="js/revolution/extensions/revolution.extension.actions.min.js"></script>
-<script src="js/revolution/extensions/revolution.extension.carousel.min.js"></script>
-<script src="js/revolution/extensions/revolution.extension.kenburn.min.js"></script>
-<script src="js/revolution/extensions/revolution.extension.layeranimation.min.js"></script>
-<script src="js/revolution/extensions/revolution.extension.migration.min.js"></script>
-<script src="js/revolution/extensions/revolution.extension.navigation.min.js"></script>
-<script src="js/revolution/extensions/revolution.extension.parallax.min.js"></script>
-<script src="js/revolution/extensions/revolution.extension.slideanims.min.js"></script>
-<script src="js/revolution/extensions/revolution.extension.video.min.js"></script>
-
-<!-- Google Map Api -->
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCJRG4KqGVNvAPY4UcVDLcLNXMXk2ktNfY"></script>
-<script src="js/maps.min.js"></script>
-
-<!-- Custom JS File -->
-<script src="js/functions.js"></script>
+<?php include 'footer.php' ?>
 </body>
-</html>
-
-
+</html> 
