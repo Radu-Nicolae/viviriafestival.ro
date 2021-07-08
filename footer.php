@@ -58,6 +58,8 @@
 <script src="js/parallaxie.min.js"></script>
 <!-- Fancy Box JS File -->
 <script src="js/jquery.fancybox.min.js"></script>
+<!-- Particles -->
+<script src="js/particles.min.js"></script>
 <!-- Swiper JS File -->
 <script src="js/swiper.min.js"></script>
 <!-- Owl Carousel JS File -->

@@ -494,8 +494,12 @@
     </div>
 
 </section>
+
+
+
+
 <section>
-    <div style="background-color: black">
+    <div style="background-color: black" >
         <div class="row">
             <div class="col-md-12">
                 <div class="main-title wow fadeIn" data-wow-delay="300ms">
@@ -505,34 +509,42 @@
                         <li>
                             <span style="color: #d0920e; font-weight: 700">V</span>iață - lume care enjoyește viața așa
                             cum e
-                        </li> <br>
+                        </li>
+                        <br>
                         <li>
                             <span style="color: #d0920e; font-weight: 700">I</span>nspirație să scrii mai departe și să
                             experimentezi arii artistice noi
-                        </li> <br>
+                        </li>
+                        <br>
                         <li>
                             <span style="color: #d0920e; font-weight: 700">V</span>eselie - nu poți veni la festival
                             decât echipat cu multă voie bună
-                        </li> <br>
+                        </li>
+                        <br>
                         <li>
                             <span style="color: #d0920e;; font-weight: 700">I</span>dei noi - sigur vei da peste
-                            concepte, personalități, autori și texte <br>de care nu ai auzit până acum, așadar o mulțime de
+                            concepte, personalități, autori și texte <br>de care nu ai auzit până acum, așadar o mulțime
+                            de
                             idei noi
-                        </li> <br>
+                        </li>
+                        <br>
                         <li>
                             <span style="color: #d0920e;; font-weight: 700">R</span>isc - fie că vei recita sau vei
                             prezenta în fața altora ideile tale, <br> îți vei asuma risc(uri), noi te asigurăm că nu vei
                             regreta
-                        </li> <br>
+                        </li>
+                        <br>
                         <li>
                             <span style="color: #d0920e;; font-weight: 700">I</span>upi! avem festival - a fost
-                            pandemie, am avut clubul de scris online,<br> am participat la evenimente pe zoom, e cazul să ne
+                            pandemie, am avut clubul de scris online,<br> am participat la evenimente pe zoom, e cazul
+                            să ne
                             vedem față în față
-                        </li> <br>
+                        </li>
+                        <br>
                         <li>
                             <span style="color: #d0920e;; font-weight: 700">A</span>vans - așa cum scrii acum e foarte
                             bine, deja credem asta despre tine; <br> dar ca să crești e nevoie să primești feedback, să
-                            asculți alte texte, <br>  să afli tendințe și metode noi de scriere
+                            asculți alte texte, <br> să afli tendințe și metode noi de scriere
                         </li>
                     </ul>
                 </div>
