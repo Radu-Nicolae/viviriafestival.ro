@@ -153,7 +153,7 @@ class BlogItem
                 <h2 class="text-white mt-5 mb-2">Our Blog</h2>
                 <p class="text-white">We offer the most creative web designs.</p>
                 <div class="page_nav bg-white d-inline-block">
-                    <span>You are here:</span> <a href="index.html" class="d-inline-block color-black">Home</a> <span
+                    <span>You are here:</span> <a href="index.php" class="d-inline-block color-white" style=" color: white;">Home</a> <span
                             class="color-summer-sky"><i class="ti ti-angle-double-right"></i>Blog</span>
                 </div>
             </div>
@@ -174,131 +174,13 @@ class BlogItem
                 ?>
             </div>
             <!-- Blog Widgets -->
-            <div class="col-lg-4 col-md-5">
-                <div class="text-left">
-                    <!-- Search Box -->
-                    <div class="widget heading-space wow fadeIn" data-wow-delay="300ms">
-                        <form class="search-box">
-                            <div class="input-group">
-                                <input type="search" class="form-control" placeholder="search..." required>
-                                <button type="submit" class="search-addon"><i class="ti ti-search line-height-35px"></i>
-                                </button>
-                            </div>
-                        </form>
-                    </div>
-                    <!-- Recent Post -->
-                    <div class="widget heading-space wow fadeIn" data-wow-delay="350ms">
-                        <h5 class="color-black font-weight-600 text-capitalize mb-4">Recent Posts</h5>
-                        <div class="single-post mb-3">
-                            <a href="javascript:void(0)" class="post"><img src="images/post1.jpg" alt="image"></a>
-                            <div class="text">
-                                <a href="javascript:void(0)" class="color-grey">Cooperative Society Management</a>
-                                <span>July 15,2018</span>
-                            </div>
-                        </div>
-                        <div class="single-post mb-3">
-                            <a href="javascript:void(0)" class="post"><img src="images/post2.jpg" alt="image"></a>
-                            <div class="text">
-                                <a href="javascript:void(0)" class="color-grey">Board of Directors Conference</a>
-                                <span>November 09,2018</span>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Categories -->
-                    <div class="widget heading-space wow fadeIn" data-wow-delay="400ms">
-                        <h5 class="color-black font-weight-600 text-capitalize">Categories</h5>
-                        <div>
-                            <div class="categories-name">
-                                <a href="javascript:void(0)">
-                                    <p class="font-16 color-grey text-capitalize">Business <span>198</span></p>
-                                </a>
-                            </div>
-                            <div class="categories-name">
-                                <a href="javascript:void(0)">
-                                    <p class="font-16 color-grey text-capitalize">Corporate <span>119</span></p>
-                                </a>
-                            </div>
-                            <div class="categories-name">
-                                <a href="javascript:void(0)">
-                                    <p class="font-16 color-grey text-capitalize">Creative <span>132</span></p>
-                                </a>
-                            </div>
-                            <div class="categories-name">
-                                <a href="javascript:void(0)">
-                                    <p class="font-16 color-grey text-capitalize">Finance <span>37</span></p>
-                                </a>
-                            </div>
-                            <div class="categories-name mb-2">
-                                <a href="javascript:void(0)">
-                                    <p class="font-16 color-grey text-capitalize">Marketing <span>30</span></p>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Tags -->
-                    <div class="widget heading-space mb-0 wow fadeIn" data-wow-delay="450ms">
-                        <h5 class="color-black font-weight-600 mb-4 text-capitalize">Trending tags</h5>
-                        <div>
-                            <ul class="tags">
-                                <li>
-                                    <p class="font-13 text-capitalize">Business</p>
-                                </li>
-                                <li>
-                                    <p class="font-13 text-capitalize">Corporate</p>
-                                </li>
-                                <li>
-                                    <p class="font-13">SEO</p>
-                                </li>
-                                <li>
-                                    <p class="font-13 text-capitalize">Creative</p>
-                                </li>
-                                <li>
-                                    <p class="font-13 text-capitalize">Finance</p>
-                                </li>
-                                <li>
-                                    <p class="font-13 text-capitalize">Marketing</p>
-                                </li>
-                                <li>
-                                    <p class="font-13 text-capitalize">Envato</p>
-                                </li>
-                                <li>
-                                    <p class="font-13 text-capitalize">Theme Development</p>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            
         </div>
     </div>
 </section>
 <!-- Blog ends -->
 
-<!-- Footer starts -->
-<footer class="p-half bg-black2">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 col-sm-12 text-center">
-                <ul class="footer-icons mb-4">
-                    <li><a href="javascript:void(0)" class="wow fadeInUp facebook"><i class="ti ti-facebook"></i> </a>
-                    </li>
-                    <li><a href="javascript:void(0)" class="wow fadeInDown twitter"><i class="ti ti-twitter"></i> </a>
-                    </li>
-                    <li><a href="javascript:void(0)" class="wow fadeInUp google"><i class="ti ti-google"></i> </a></li>
-                    <li><a href="javascript:void(0)" class="wow fadeInDown linkedin"><i class="ti ti-linkedin"></i> </a>
-                    </li>
-                    <li><a href="javascript:void(0)" class="wow fadeInUp instagram"><i class="ti ti-instagram"></i> </a>
-                    </li>
-                    <li><a href="javascript:void(0)" class="wow fadeInDown pinterest"><i class="ti ti-pinterest"></i>
-                        </a></li>
-                </ul>
-                <p class="copyrights mt-2 mb-2">© 2020 Wixer. Made with love by <a href="javascript:void(0)">themesindustry</a>
-                </p>
-            </div>
-        </div>
-    </div>
-</footer>
-<!-- Footer ends -->
+<?php include 'footer.php' ?>
 
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->

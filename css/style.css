@@ -734,6 +734,7 @@ button:hover, button:active, button:focus {
 .fixed-menu .container.radius {
     border-radius: 0;
 }
+
 /* owl carousel bullets */
 .owl-dots .owl-dot {
     height: 12px;
@@ -4157,6 +4158,7 @@ ul.rounded li::before {
     padding: 13px 10px 10px;
     height: 150px;
 }
+
 .contact-form-textfield input,
 .contact-form-textfield textarea {
     font-size: 14px;
