@@ -53,9 +53,9 @@
    
     <!-- Page Header -->
 
-    <!-- Team start -->
-    <?php include 'team.php'?>
-    <!-- Team ends -->
+   <!-- Team start -->
+<?php include 'team.php' ?>
+<!-- Team ends -->
 
     <?php include 'footer.php' ?>
 
