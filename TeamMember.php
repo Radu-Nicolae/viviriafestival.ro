@@ -87,9 +87,9 @@ class TeamMember{
     }
 
     public function getMembers(){
-        $member1 = new TeamMember("name", "image.jpeg", "position", "shortds hadsfjhdsafiu ahdsfiu hsadfu ihdsaf iuhsa");
-        $member2 = new TeamMember("name", "image.jpeg", "position", "shortds hadsfjhdsafiu ahdsfiu hsadfu ihdsaf iuhsa");
-        $member3 = new TeamMember("name", "image.jpeg", "position", "shortds hadsfjhdsafiu ahdsfiu hsadfu ihdsaf iuhsa");
+        $member1 = new TeamMember("name1", "image.jpeg", "position", "shortds hadsfjhdsafiu ahdsfiu hsadfu ihdsaf iuhsa");
+        $member2 = new TeamMember("name2", "image.jpeg", "position", "shortds hadsfjhdsafiu ahdsfiu hsadfu ihdsaf iuhsa");
+        $member3 = new TeamMember("name3", "image.jpeg", "position", "shortds hadsfjhdsafiu ahdsfiu hsadfu ihdsaf iuhsa");
 
         return array($member1, $member2, $member3);
     }
