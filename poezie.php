@@ -1,44 +1,78 @@
-<!-- Footer starts -->
-<footer class="p-half bg-black2">
+<!DOCTYPE html>
+<html lang="en">
+<?php include 'head.php' ?>
+<body data-spy="scroll" data-target=".navbar" data-offset="90">
+
+<!-- Loader -->
+<?php include 'loader.php' ?>
+<!-- Loader ends -->
+
+<?php include 'header.php';
+$header = new Header();
+$header->getHeader2();
+?>
+
+<!-- Blog starts -->
+<section class="bg-light-gray text-left">
     <div class="container">
         <div class="row">
-            <div class="col-md-12 col-sm-12 text-center">
-                <ul class="footer-icons mb-4">
-<!--                    <li><a href="javascript:void(0)" class="wow fadeInDown twitter"><i class="ti ti-home"></i> </a>-->
-<!--                    </li>-->
-<!--                    <li><a href="javascript:void(0)" class="wow fadeInDown linkedin"><i class="ti ti-pencil"></i> </a>-->
-<!--                    </li>-->
-<!--                    <li><a href="javascript:void(0)" class="wow fadeInDown pinterest"><i class="ti ti-mobile"></i>-->
-<!--                        </a></li>-->
-<!--                    <br>-->
-                    <li><a href="javascript:void(0)" class="wow fadeInUp facebook"><i class="ti ti-facebook"></i> </a>
-                    </li>
-                    <li><a href="javascript:void(0)" class="wow fadeInUp google"><i class="ti ti-google"></i> </a></li>
+            <div class="col-lg-12">
+                <!-- Blog List Inner -->
+                <div class="blog-listing-inner heading-space">
+                    <div class="image hover-effect">
+                        <img src="images/poezie-blog.jpeg" alt="blog-img">
+                    </div>
+                </div>
+            </div>
 
-                    <li><a href="javascript:void(0)" class="wow fadeInUp instagram"><i class="ti ti-instagram"></i> </a>
-                    </li>
+            <!-- Blog Left Listing -->
+            <div style="width: 100%">
+                <div class="heading-space m-md-0">
+                    <!-- Blog List Inner -->
+                    <div class="largerIndexBlogContainer blog-listing-inner news_item">
+                        <div class="news_desc indexDescription">
+                            <h1>
+                                Poezie
+                            </h1>
 
-                </ul>
-                <p class="copyrights mt-2 mb-2" style="color: white">Copyright ©
-                    <script>document.write(new Date().getFullYear());</script>
-                    All rights reserved | Viviria Festival
-                </p>
-                <p>
-                    Website developed with &nbsp<i class="fa fa-heart" style="color: #ff0000" aria-hidden="true"></i>&nbsp by <a href="https://radu-nicolae.com" style="color: #ff0000 !important; font-weight: 400 !important;">Radu Nicolae</a> and <a style="color: #ff0000 !important; font-weight: 400;" href="https://luanaionica.com">Luana Ionica</a>
-                </p>
+                            <div>
+                                <p>
+                                    Ideile tale se leagă într-un mod pe care nici tu nu-l bănuiai, se așază ca pisicile
+                                    lângă tine și nu mai vor să plece, poate te-ai prins că scrii poezie, poate e doar o
+                                    listă de substantive, dar eu zic să te înscrii la secțiunea poezie și să vezi ce
+                                    iese după ce te întâlnești cu mentorii.
+                                </p>
+                            </div>
+
+                            <?php include 'join-us-button.php' ?>
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Blog Widgets -->
+            <div class="col-lg-4 col-md-5">
+                <div class="text-left">
+                    <!-- Search Box -->
+
+                    <!-- Recent Post -->
+
+                    <!-- Categories -->
+
+                    <!-- Tags -->
+
+                </div>
             </div>
         </div>
     </div>
-</footer>
+</section>
+<!-- Blog ends -->
+
+<!-- Footer starts -->
+<?php include 'footer.php' ?>
 <!-- Footer ends -->
 
-<!--Animated Cursor-->
-<div id="animated-cursor">
-    <div id="cursor">
-        <div id="cursor-loader"></div>
-    </div>
-</div>
-<!--Animated Cursor End-->
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="js/jquery-3.3.1.min.js"></script>
@@ -51,6 +85,8 @@
 <script src="js/jquery.flip.min.js"></script>
 <!-- Appear JS File -->
 <script src="js/jquery.appear.js"></script>
+<!-- Megamenu Js File -->
+<script src="js/megamenu.js"></script>
 <!-- Isotop gallery -->
 <script src="js/isotope.pkgd.min.js"></script>
 <!-- Cube Portfolio JS File -->
@@ -61,18 +97,12 @@
 <script src="js/parallaxie.min.js"></script>
 <!-- Fancy Box JS File -->
 <script src="js/jquery.fancybox.min.js"></script>
-<!-- Particles -->
-<script src="js/particles.min.js"></script>
 <!-- Swiper JS File -->
 <script src="js/swiper.min.js"></script>
 <!-- Owl Carousel JS File -->
 <script src="js/owl.carousel.js"></script>
 <!-- Wow JS File -->
 <script src="js/wow.js"></script>
-<!-- Tween Max Animation File -->
-<script src="js/TweenMax.min.js"></script>
-<!-- Megamenu Js File -->
-<script src="js/megamenu.js"></script>
 <!-- Headroom Nav File -->
 <script src="js/headroom.js"></script>
 
@@ -92,12 +122,9 @@
 <script src="js/revolution/extensions/revolution.extension.slideanims.min.js"></script>
 <script src="js/revolution/extensions/revolution.extension.video.min.js"></script>
 
-<!-- Google Map Api -->
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCJRG4KqGVNvAPY4UcVDLcLNXMXk2ktNfY"></script>
-<script src="js/maps.min.js"></script>
-
 <!-- Custom JS File -->
 <script src="js/functions.js"></script>
-
+</body>
+</html>
 
 

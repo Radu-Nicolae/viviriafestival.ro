@@ -25,82 +25,47 @@
     </section>
     <!-- Page Header -->
 
-    <!-- Contact & Map starts -->
-    <section id="contact" class="pb-0">
-        <div class="container">
-            <div class="row pb-half pb-xs-0">
-                <div class="col-md-12">
-                    <div class="main-title wow fadeIn" data-wow-delay="300ms">
-                        <h5> Leave a message </h5>
-                        <h2> Need Assistance? </h2>
-                        <p>Curabitur mollis bibendum luctus. Duis suscipit vitae dui sed suscipit. Vestibulum auctor nunc vitae diam eleifend, in maximus metus sollicitudin. Quisque vitae sodales lectus. Nam porttitor justo sed mi finibus, vel tristique risus faucibus.                    </p>
+    <section id="contact" style="background-color: black !important" class="parallax-setting parallaxie parallax5">
+    <div style="background-color: black !important" class="bg-overlay bg-black2 opacity-9"></div>
+    <div class="container">
+        <div class="row pb-half pb-xs-0">
+            <div class="col-lg-6 col-md-12 col-sm-12 mb-5 wow fadeInUp" data-wow-delay="400ms">
+                <div class="contact-box-shadow">
+                    <div class="text-left sm-text-center w-100">
+                        <h2 class="color-black font-weight-normal mb-2rem text-capitalize"> Participa la Vivira
+                            Festival!</h2>
+                        <p class="contact-para-setting">
+                            Curabitur mollis bibendum luctus. Duis suscipit vitae dui sed suscipit. Vestibulum auctor
+                            nunc vitae diam eleifend.
+                        </p>
                     </div>
-                </div>
-
-                <div class="col-md-12">
-                    <div class="main-title wow fadeIn" data-wow-delay="300ms">
-                        <h2> Contact</h2>
-                        <p>Curabitur mollis bibendum luctus. Duis suscipit vitae dui sed suscipit. Vestibulum auctor nunc vitae diam eleifend, in maximus metus sollicitudin. Quisque vitae sodales lectus. Nam porttitor justo sed mi finibus, vel tristique risus faucibus.                    </p>
-                        <div class="contact-info sm-text-center">
-                            <div class="icon-box">
-                                <i class="ti ti-mobile color-summer-sky"></i>
-                                <p class="color-grey"> +(34) 609 33 17 54</p>
-                            </div>
-                            <div class="icon-box">
-                                <i class="ti ti-email color-summer-sky"></i>
-                                <p> <a href="mailto:email@website.com" class="color-grey">email@website.com</a></p>
-                            </div>
-                            <div class="icon-box">
-                                <i class="ti ti-location-pin color-summer-sky"></i>
-                                <p class="color-grey"> 201 Oak Street Building 27 Manchester, USA</p>
-                            </div>
+                    <div class="contact-info sm-text-center">
+                        <div class="icon-box">
+                            <i class="ti ti-mobile color-summer-sky"></i>
+                            <p class="color-grey"> +(34) 609 33 17 54</p>
+                        </div>
+                        <div class="icon-box">
+                            <i class="ti ti-email color-yellow"></i>
+                            <p><a href="mailto:email@website.com" class="color-grey">email@website.com</a></p>
+                        </div>
+                        <div class="icon-box">
+                            <i class="ti ti-location-pin color-green"></i>
+                            <p class="color-grey"> 201 Oak Street Building 27 Manchester, USA</p>
                         </div>
                     </div>
                 </div>
-
-                
-
-                <div class="col-lg-5 col-md-12 col-sm-12 offset-lg-1 m-lg-0 mb-5 wow fadeInUp" data-wow-delay="400ms">
-                        <div class="text-lg-left text-center w-100">
-                        <h5 class="main-title wow fadeIn" data-wow-delay="300ms" style="color: orange"> Leave a message </h5>
-                        <h2> Need Assistance? </h2>
-                        <br>
-                        <p>Curabitur mollis bibendum luctus. Duis suscipit vitae dui sed suscipit. Vestibulum auctor nunc vitae diam eleifend, in maximus metus sollicitudin. Quisque vitae sodales lectus. Nam porttitor justo sed mi finibus, vel tristique risus faucibus.                    </p>
-                            <br>
-                            <h2 class="color-black font-weight-normal mb-2rem"> Connect with Wixer.</h2>
-                            <p class="contact-para-setting">
-                                Curabitur mollis bibendum luctus. Duis suscipit vitae dui sed suscipit. Vestibulum auctor nunc vitae diam eleifend.
-                            </p>
-                        </div>
-                        <div class="contact-info sm-text-center">
-                            <div class="icon-box">
-                                <i class="ti ti-mobile color-summer-sky"></i>
-                                <p class="color-grey"> +(34) 609 33 17 54</p>
-                            </div>
-                            <div class="icon-box">
-                                <i class="ti ti-email color-summer-sky"></i>
-                                <p> <a href="mailto:email@website.com" class="color-grey">email@website.com</a></p>
-                            </div>
-                            <div class="icon-box">
-                                <i class="ti ti-location-pin color-summer-sky"></i>
-                                <p class="color-grey"> 201 Oak Street Building 27 Manchester, USA</p>
-                            </div>
-                        </div>
-                </div>
-                
-
             </div>
-        </div>
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-lg-12 col-md-12 col-sm-12 p-0 col-map wow fadeInUp" data-wow-delay="400ms">
-                    <div id="google-map" class="bg-light-gray map"></div>
-                </div>
+            <div class="col-lg-6 col-md-12 col-sm-12 mb-5 col-map wow fadeInUp" data-wow-delay="400ms">
+                <div id="google-map" class="bg-light-gray map"></div>
             </div>
         </div>
 
-    </section>
-    <!-- Contact & Map ends -->
+
+    </div>
+
+</section>
+
+
 
 <!-- Footer starts -->
 <?php include 'footer.php' ?>

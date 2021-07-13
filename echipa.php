@@ -26,36 +26,18 @@
     <?php include 'loader.php' ?>
     <!-- Loader ends -->
 
-    <!-- Header start -->
-    <header class="multipage">
-        <nav style="background-color: black" class="navbar navbar-top-default navbar-expand-lg static-nav transparent-bg fixed-black-nav center-logo">
-            <div class="container">
-                <a style="" href="javascript:void(0)">
-                    <img src="images/logo-white.png" alt="logo" title="Logo">
-                </a>
-                <div id="menu" class="collapse navbar-collapse d-none d-lg-block mod-menu">
-                    <ul class="nav navbar-nav">
-                        </ul>
-                    <ul class="nav navbar-nav ml-auto">
-                    <li class="nav-item mega-menu active"> <a href="javascript:void(0)" class="nav-link link">Echipa </a></li>
-                        <li class="nav-item"> <a href="javascript:void(0)" class="nav-link link">Invitati </a></li>
-                        <li class="nav-item"> <a href="javascript:void(0)" class="nav-link link">Blog</a></li>
-                        <li class="nav-item"> <a href="javascript:void(0)" class="nav-link link">Contact </a></li>
-                        <li class="nav-item mega-menu active"> <a href="javascript:void(0)" class="nav-link link"><span class="join-us-navbar">Alatura-te</span></a> </li>                      
-                    </ul>
-                </div>
-            </div>
-        </nav>
-    </header>
-    <!-- Header end -->
+    <?php include 'header.php';
+        $header = new Header();
+        $header->getHeader2();
+    ?>
 
     <!-- Page Header -->
    
     <!-- Page Header -->
 
-    <!-- Team start -->
-    <?php include 'team.php'?>
-    <!-- Team ends -->
+   <!-- Team start -->
+<?php include 'team.php' ?>
+<!-- Team ends -->
 
     <?php include 'footer.php' ?>
 

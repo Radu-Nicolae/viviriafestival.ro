@@ -8,7 +8,7 @@
 <!--    --><?php include 'loader.php' ?>
 
 
-<?php include 'header.php' ?>
+<?php include 'header.php'; $header = new Header(); $header->getHeader1(); ?>
 
 <!-- Main Section start -->
 <section id="home" class="p-0 no-transition h-100vh">
@@ -284,8 +284,9 @@
             <div class="col-md-12">
                 <div id="js-grid-mosaic" class="cbp cbp-l-grid-mosaic no-transition">
 
+
                     <div class="cbp-item graphic portfolio-img wow fadeInUp" data-wow-delay="250ms">
-                        <a href="poezie.php" class="cbp-caption cbp-lightbox" data-title="">
+                        <a href="poezie.php" class="cbp-caption" data-title="">
                             <div class="cbp-caption-defaultWrap">
                                 <img src="images/poezie.jpeg" alt="">
                             </div>
@@ -298,7 +299,7 @@
                     </div>
 
                     <div class="cbp-item motion portfolio-img even wow fadeInUp" data-wow-delay="300ms">
-                        <a href="proza.php" class="cbp-caption cbp-lightbox" data-title="">
+                        <a href="proza.php" class="cbp-caption" data-title="">
                             <div class="cbp-caption-defaultWrap">
                                 <img src="images/proza.jpeg" alt="">
                             </div>
@@ -311,7 +312,7 @@
                     </div>
 
                     <div class="cbp-item print web-design even portfolio-img wow fadeInUp" data-wow-delay="350ms">
-                        <a href="jurnalism.php" class="cbp-caption cbp-lightbox" data-title="">
+                        <a href="jurnalism.php" class="cbp-caption" data-title="">
                             <div class="cbp-caption-defaultWrap">
                                 <img src="images/jurnalism.jpeg" alt="">
                             </div>
@@ -324,7 +325,7 @@
                     </div>
 
                     <div class="cbp-item web-design portfolio-img wow fadeInUp" data-wow-delay="400ms">
-                        <a href="scenaristica.php" class="cbp-caption cbp-lightbox" data-title="">
+                        <a href="scenaristica.php" class="cbp-caption" data-title="">
                             <div class="cbp-caption-defaultWrap">
                                 <img src="images/scenaristica.jpeg" alt="">
                             </div>
@@ -465,8 +466,7 @@
                         <h2 class="color-black font-weight-normal mb-2rem text-capitalize"> Participa la Vivira
                             Festival!</h2>
                         <p class="contact-para-setting">
-                            Curabitur mollis bibendum luctus. Duis suscipit vitae dui sed suscipit. Vestibulum auctor
-                            nunc vitae diam eleifend.
+                            Va asteptam cu drag la Viviria festival! Pentru orice nelamurire nu ezitati sa ne contactati prin email sau telefonic!
                         </p>
                     </div>
                     <div class="contact-info sm-text-center">
@@ -476,11 +476,11 @@
                         </div>
                         <div class="icon-box">
                             <i class="ti ti-email color-yellow"></i>
-                            <p><a href="mailto:email@website.com" class="color-grey">email@website.com</a></p>
+                            <p><a href="mailto:email@website.com" class="color-grey">contact@viviriafestival.ro</a></p>
                         </div>
                         <div class="icon-box">
                             <i class="ti ti-location-pin color-green"></i>
-                            <p class="color-grey"> 201 Oak Street Building 27 Manchester, USA</p>
+                            <p class="color-grey"> coming soon </p>
                         </div>
                     </div>
                 </div>
@@ -508,8 +508,8 @@
                     <ul style="font-size: 150%; padding-left: 20%; padding-right: 20%; text-align: center;">
                         <style>
                             .spanLetters{
-                                color: #d0920e; 
-                                font-weight: 700; 
+                                color: #d0920e;
+                                font-weight: 700;
                                 font-size: 150%;
                                 padding-right: 1px;
                             }

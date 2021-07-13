@@ -1285,7 +1285,6 @@ header .fixed-menu.navbar-top-default .header-social a:hover {
 /* full nav */
 .full-nav {
     height: 70px;
-    margin-top: 40px;
 }
 .header-with-topbar .full-nav {
     margin-top: 50px
@@ -6822,3 +6821,42 @@ ul.count_down.white li p:nth-child(2) {
 .page-header {
 background-attachment: inherit;
 }
+
+.largerIndexBlogContainer{
+    border: 5px solid black;
+    border-radius: 50px !important;
+}
+
+.indexDescription > div > p{
+    font-size: 1.3rem !important;
+    line-height: 150%;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    letter-spacing: 0.1rem;
+
+}
+
+.blogText > div > p{
+    font-size: 1.2rem !important;
+    line-height: 140%;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    letter-spacing: 0.08rem;
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    text-align: justify;
+}
+
+.indexDescription > h1, .blogText > h1{
+    font-size: 200%;
+    font-weight: 700;
+    text-align: center;
+    color: #d0920e;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+
+.indexDescription > div{
+    margin-bottom: 2rem;
+}
+
