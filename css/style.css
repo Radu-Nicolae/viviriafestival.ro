@@ -6844,7 +6844,7 @@ background-attachment: inherit;
     letter-spacing: 0.08rem;
     padding-top: 0.75rem;
     padding-bottom: 0.75rem;
-    text-align: justify;
+    text-align: justify !important;
 }
 
 .indexDescription > h1, .blogText > h1{
