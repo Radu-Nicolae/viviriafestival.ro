@@ -87,9 +87,9 @@ class TeamMember{
     }
 
     public function getMembers(){
-        $member1 = new TeamMember("name1", "image.jpeg", "position", "shortds hadsfjhdsafiu ahdsfiu hsadfu ihdsaf iuhsa");
-        $member2 = new TeamMember("name2", "image.jpeg", "position", "shortds hadsfjhdsafiu ahdsfiu hsadfu ihdsaf iuhsa");
-        $member3 = new TeamMember("name3", "image.jpeg", "position", "shortds hadsfjhdsafiu ahdsfiu hsadfu ihdsaf iuhsa");
+        $member1 = new TeamMember("name1", "team6.jpg", "position", "shortds hadsfjhdsafiu ahdsfiu hsadfu ihdsaf iuhsa");
+        $member2 = new TeamMember("name2", "team6.jpg", "position", "shortds hadsfjhdsafiu ahdsfiu hsadfu ihdsaf iuhsa");
+        $member3 = new TeamMember("name3", "team6.jpg", "position", "shortds hadsfjhdsafiu ahdsfiu hsadfu ihdsaf iuhsa");
 
         return array($member1, $member2, $member3);
     }
@@ -104,7 +104,7 @@ class TeamMember{
                             <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
                                 <div class="image hover-effect team-single-img ml-lg-0">
                                     <!-- 2 be modified-->
-                                    <img src="images/team6.jpg" alt="blog">
+                                    <img src="images/' . $member->getImage() . '" alt="blog">
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">

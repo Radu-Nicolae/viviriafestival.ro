@@ -67,8 +67,8 @@ class Header
                         <div class="position-relative">
                             <!-- Main Menu -->
                             <div class="navbar-nav side-main-menu">
-                                <a class="nav-link link" href="echipa.php">Echipa</a>
-                                <a class="nav-link link" href="invitati.php">Invitati</a>
+                                <a class="nav-link link" href="echipa.php">Team</a>
+                                <a class="nav-link link" href="invitati.php">Guests</a>
                                 <a class="nav-link link" href="blog.php">Blog</a>
                                 <a class="nav-link link" href="contact.php">Contact</a>
         

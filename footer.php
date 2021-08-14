@@ -13,7 +13,7 @@
 <!--                    <br>-->
                     <li><a href="javascript:void(0)" class="wow fadeInUp facebook"><i class="ti ti-facebook"></i> </a>
                     </li>
-                    <li><a href="javascript:void(0)" class="wow fadeInUp google"><i class="ti ti-google"></i> </a></li>
+                    <li><a href="javascript:void(0)" class="wow fadeInUp google"><i class="ti ti-map"></i> </a></li>
 
                     <li><a href="javascript:void(0)" class="wow fadeInUp instagram"><i class="ti ti-instagram"></i> </a>
                     </li>
