@@ -30,15 +30,15 @@ class Header
         <header class="multipage">
             <nav class="navbar navbar-top-default navbar-expand-lg static-nav transparent-bg bottom-nav box-nav not-full no-animation">
                 <div class="container radius nav-box-shadow">
-                    <a class="logo link" href="index.php">
+                    <a class="logo link" style="padding-top: 8px !important; padding-left: 20px !important;" href="index.php">
                         <img src="images/logo.png" alt="logo" title="Logo">
                     </a>
                     <div id="menu" class="collapse navbar-collapse d-none d-lg-block mod-menu">
                         <ul class="nav navbar-nav ml-auto">
-                            <li class="nav-item mega-menu active"><a href="echipa.php" class="nav-link link">Echipa </a>
+                            <li class="nav-item mega-menu active"><a href="echipa.php" class="nav-link link">Team </a>
                             </li>
                             <li class="nav-item mega-menu active"><a href="invitati.php"
-                                                                     class="nav-link link">Invitati </a></li>
+                                                                     class="nav-link link">Guests</a></li>
                             <li class="nav-item mega-menu active"><a href="blog.php" class="nav-link link">Blog </a>
                             </li>
                             <li class="nav-item mega-menu active"><a href="contact.php"
