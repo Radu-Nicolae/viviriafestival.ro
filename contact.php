@@ -8,7 +8,10 @@
     <!-- Loader ends -->
 
     <!-- Header start -->
-    
+    <?php include 'header.php';
+        $header = new Header();
+        $header->getHeader2();
+    ?>
     <!-- Page Header -->
     <section class="page_header pb-0 w-100">
       <div class="container">
@@ -17,7 +20,7 @@
                   <h2 class="text-white mt-5 mb-2">Contact</h2>
                   <p class="text-white">We offer the most creative web designs.</p>
                   <div class="page_nav bg-white d-inline-block">
-                      <span>You are here:</span> <a href="index.php" class="d-inline-block color-white" style="color: white">Home</a> <span class="color-summer-sky"><i class="ti ti-angle-double-right"></i>Contact</span>
+                      <span>Te aflii aici:</span> <a href="index.php" class="d-inline-block color-white" style="color: white">Home</a> <span class="color-summer-sky"><i class="ti ti-angle-double-right"></i>Contact</span>
                   </div>
               </div>
           </div>
@@ -42,11 +45,11 @@
                     <div class="contact-info sm-text-center">
                         <div class="icon-box">
                             <i class="ti ti-mobile color-summer-sky"></i>
-                            <p class="color-grey"> +(34) 609 33 17 54</p>
+                            <p class="color-grey"> 0725920491 </p>
                         </div>
                         <div class="icon-box">
                             <i class="ti ti-email color-yellow"></i>
-                            <p><a href="mailto:email@website.com" class="color-grey">email@website.com</a></p>
+                            <p><a href="mailto:email@website.com" class="color-grey">viviria.festival@gmail.com</a></p>
                         </div>
                         <div class="icon-box">
                             <i class="ti ti-location-pin color-green"></i>

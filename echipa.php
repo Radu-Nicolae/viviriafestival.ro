@@ -32,11 +32,151 @@
     ?>
 
     <!-- Page Header -->
-   
+   <!-- Page Header -->
+   <section class="page_header pb-0 w-100">
+      <div class="container">
+          <div class="row">
+              <div class="col-md-12 page-content position-relative">
+                  <h2 class="text-white mt-5 mb-2">Echipa</h2>
+                  <p class="text-white">We offer the most creative web designs.</p>
+                  <div class="page_nav bg-white d-inline-block">
+                      <span>Te aflii aici:</span> <a href="index.php" class="d-inline-block color-white" style="color: white">Home</a> <span class="color-summer-sky"><i class="ti ti-angle-double-right"></i>Echipa</span>
+                  </div>
+              </div>
+          </div>
+      </div>
+    </section>
+    <!-- Page Header -->
     <!-- Page Header -->
 
    <!-- Team start -->
-<?php include 'team.php' ?>
+
+   <section id="team">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="main-title wow fadeIn" data-wow-delay="300ms">
+                    <h5> Aceasta este echipa noastra</h5>
+                    <h2> Membrii: </h2>
+                    <p>Curabitur mollis bibendum luctus. Duis suscipit vitae dui sed suscipit. Vestibulum auctor nunc
+                        vitae diam eleifend, in maximus metus sollicitudin. Quisque vitae sodales lectus. Nam porttitor
+                        justo sed mi finibus, vel tristique risus faucibus. </p>
+                </div>
+            </div>
+        </div>
+        <div class="item">
+                    <div class="container">
+                        <div class="row align-items-center">
+                            <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
+                                <div class="image hover-effect team-single-img ml-lg-0">
+                                    <!-- 2 be modified-->
+                                    <img src="membruechipa2.jpeg" alt="blog">
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
+                                <div class="skill-box-two">
+                                    <div class="main-title mb-5 text-lg-left wow fadeIn" data-wow-delay="300ms">
+                                        <h5>functie</h5> <!-- 2 be modified-->
+                                        <h2 class="ml-0">Diana Maxim</h2> <!-- 2 be modified-->
+                                        <p>Imi place sa vad frumosul din orice- culorile rasaritului din diminetile mult prea matinale cand ai vrea sa dormi mai mult, zambetele din metrou, fluturii din mijlocul orasului exagerat de aglomerat. Dar cel mai mult imi place sa caut frumosul in oameni, cu povestile, experientele, obiceiurile si defectele lor. Frumosul este peste tot, trebuie doar sa iti pastrezi sufletul deschis, ori pentru a-l cauta, ori pentru a-i permite sa te gaseasca.</p> 
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+    <br><br><br>
+    <div class="item">
+                    <div class="container">
+                        <div class="row align-items-center">
+                            <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
+                                <div class="image hover-effect team-single-img ml-lg-0">
+                                    <!-- 2 be modified-->
+                                    <img src="membruechipa1.jpeg" alt="blog">
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
+                                <div class="skill-box-two">
+                                    <div class="main-title mb-5 text-lg-left wow fadeIn" data-wow-delay="300ms">
+                                        <h5>functie</h5> <!-- 2 be modified-->
+                                        <h2 class="ml-0">Georgia Mirică</h2> <!-- 2 be modified-->
+                                        <p>Sunt de părere că lectura este activitatea solitară care ne face cel mai mult bine. Prin slovele și mărturiile celorlalți, ajungem sa înțelegem lumea din jurul nostru, percepem ce presupune condiția umană, revelăm ceea ce ne leagă între noi</p> 
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br><br><br>
+    <div class="item">
+                    <div class="container">
+                        <div class="row align-items-center">
+                            <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
+                                <div class="image hover-effect team-single-img ml-lg-0">
+                                    <!-- 2 be modified-->
+                                    <img src="membruechipa3.jpeg" alt="blog">
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
+                                <div class="skill-box-two">
+                                    <div class="main-title mb-5 text-lg-left wow fadeIn" data-wow-delay="300ms">
+                                        <h5>Production Manager</h5> <!-- 2 be modified-->
+                                        <h2 class="ml-0">Ioana Catalina Barbu</h2> <!-- 2 be modified-->
+                                        <p></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br><br><br>
+    <div class="item">
+                    <div class="container">
+                        <div class="row align-items-center">
+                            <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
+                                <div class="image hover-effect team-single-img ml-lg-0">
+                                    <!-- 2 be modified-->
+                                    <img src="membruechipa4.jpeg" alt="blog">
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
+                                <div class="skill-box-two">
+                                    <div class="main-title mb-5 text-lg-left wow fadeIn" data-wow-delay="300ms">
+                                        <h5>functie</h5> <!-- 2 be modified-->
+                                        <h2 class="ml-0">Maria Preoteasa</h2> <!-- 2 be modified-->
+                                        <p>Îmi plac norii de aburi care se ridică deasupra muntelui dimineața. Îmi plac poeziile scrise la repezeală, între o stație și alta. Îmi plac oamenii când merg seara pe stradă, cu umbrele întinse pe trotuar.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br><br><br>
+    <div class="item">
+                    <div class="container">
+                        <div class="row align-items-center">
+                            <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
+                                <div class="image hover-effect team-single-img ml-lg-0">
+                                    <!-- 2 be modified-->
+                                    <img src="membruechipa5.jpeg" alt="blog">
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
+                                <div class="skill-box-two">
+                                    <div class="main-title mb-5 text-lg-left wow fadeIn" data-wow-delay="300ms">
+                                        <h5>functie</h5> <!-- 2 be modified-->
+                                        <h2 class="ml-0">Ioana Barbu</h2> <!-- 2 be modified-->
+                                        <p></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+</div>
+</section>
+
 <!-- Team ends -->
 
     <?php include 'footer.php' ?>
