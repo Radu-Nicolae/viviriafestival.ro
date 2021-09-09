@@ -53,17 +53,7 @@
 
    <section id="team">
     <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="main-title wow fadeIn" data-wow-delay="300ms">
-                    <h5> Aceasta este echipa noastra</h5>
-                    <h2> Membrii: </h2>
-                    <p>Curabitur mollis bibendum luctus. Duis suscipit vitae dui sed suscipit. Vestibulum auctor nunc
-                        vitae diam eleifend, in maximus metus sollicitudin. Quisque vitae sodales lectus. Nam porttitor
-                        justo sed mi finibus, vel tristique risus faucibus. </p>
-                </div>
-            </div>
-        </div>
+        
         <div class="item">
                     <div class="container">
                         <div class="row align-items-center">
@@ -93,28 +83,6 @@
                             <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
                                 <div class="image hover-effect team-single-img ml-lg-0">
                                     <!-- 2 be modified-->
-                                    <img src="membruechipa1.jpeg" alt="blog">
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
-                                <div class="skill-box-two">
-                                    <div class="main-title mb-5 text-lg-left wow fadeIn" data-wow-delay="300ms">
-                                        <h5>functie</h5> <!-- 2 be modified-->
-                                        <h2 class="ml-0">Georgia Mirică</h2> <!-- 2 be modified-->
-                                        <p>Sunt de părere că lectura este activitatea solitară care ne face cel mai mult bine. Prin slovele și mărturiile celorlalți, ajungem sa înțelegem lumea din jurul nostru, percepem ce presupune condiția umană, revelăm ceea ce ne leagă între noi</p> 
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <br><br><br>
-    <div class="item">
-                    <div class="container">
-                        <div class="row align-items-center">
-                            <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
-                                <div class="image hover-effect team-single-img ml-lg-0">
-                                    <!-- 2 be modified-->
                                     <img src="membruechipa3.jpeg" alt="blog">
                                 </div>
                             </div>
@@ -123,7 +91,7 @@
                                     <div class="main-title mb-5 text-lg-left wow fadeIn" data-wow-delay="300ms">
                                         <h5>Production Manager</h5> <!-- 2 be modified-->
                                         <h2 class="ml-0">Ioana Catalina Barbu</h2> <!-- 2 be modified-->
-                                        <p></p>
+                                        <p>Sufletul meu a fost făurit cu stângăcie de homo poetica, iar ochii mei au învățat să distingă poezii doar în penumbră. La vreme de furtună mă ascund sub o pelerină translucidă și strâng creația de mână. Mereu mă iau prin surprindere degetele ei pătate de cerneală și iluzii.</p>
                                     </div>
                                 </div>
                             </div>
@@ -167,7 +135,7 @@
                                     <div class="main-title mb-5 text-lg-left wow fadeIn" data-wow-delay="300ms">
                                         <h5>functie</h5> <!-- 2 be modified-->
                                         <h2 class="ml-0">Ioana Barbu</h2> <!-- 2 be modified-->
-                                        <p></p>
+                                        <p>Creația este nucleul diversității: de la vârfurile munților până la văile însorite, nimic nu este identic. Ești la fel de unic ca natura, iar creativitatea ta nu are limite. Dacă lumea ar fi altfel, probabil m-ai găsi scriind la o altitudine înaltă, undeva printre nori.</p>
                                     </div>
                                 </div>
                             </div>
