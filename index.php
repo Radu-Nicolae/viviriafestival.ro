@@ -437,29 +437,7 @@
     <div class="container">
         <div class="row pb-half pb-xs-0">
             <div class="col-lg-6 col-md-12 col-sm-12 mb-5 wow fadeInUp" data-wow-delay="400ms">
-                <div class="contact-box-shadow">
-                    <div class="text-left sm-text-center w-100">
-                        <h2 class="color-black font-weight-normal mb-2rem text-capitalize"> Participa la Vivira
-                            Festival!</h2>
-                        <p class="contact-para-setting">
-                            Va asteptam cu drag la Viviria festival! Pentru orice nelamurire nu ezitati sa ne contactati prin email sau telefonic!
-                        </p>
-                    </div>
-                    <div class="contact-info sm-text-center">
-                        <div class="icon-box">
-                            <i class="ti ti-mobile color-summer-sky"></i>
-                            <p class="color-grey"> +(34) 609 33 17 54</p>
-                        </div>
-                        <div class="icon-box">
-                            <i class="ti ti-email color-yellow"></i>
-                            <p><a href="mailto:email@website.com" class="color-grey">contact@viviriafestival.ro</a></p>
-                        </div>
-                        <div class="icon-box">
-                            <i class="ti ti-location-pin color-green"></i>
-                            <p class="color-grey"> coming soon </p>
-                        </div>
-                    </div>
-                </div>
+                <?php include 'contact_child.php' ?>
             </div>
             <div class="col-lg-6 col-md-12 col-sm-12 mb-5 col-map wow fadeInUp" data-wow-delay="400ms">
                 <div id="google-map" class="bg-light-gray map"></div>
