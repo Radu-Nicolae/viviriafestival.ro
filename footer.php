@@ -11,9 +11,9 @@
 <!--                    <li><a href="javascript:void(0)" class="wow fadeInDown pinterest"><i class="ti ti-mobile"></i>-->
 <!--                        </a></li>-->
 <!--                    <br>-->
-                    <li><a href="javascript:void(0)" class="wow fadeInUp facebook"><i class="ti ti-facebook"></i> </a>
+                    <li><a href="https://m.facebook.com/Viviria-Festival-104340941971474" class="wow fadeInUp facebook"><i class="ti ti-facebook"></i> </a>
                     </li>
-                    <li><a href="javascript:void(0)" class="wow fadeInUp google"><i class="ti ti-map"></i> </a></li>
+                    <li><a href="geo:44.472333, 26.076362" class="wow fadeInUp google"><i class="ti ti-map"></i> </a></li>
 
                     <li><a href="javascript:void(0)" class="wow fadeInUp instagram"><i class="ti ti-instagram"></i> </a>
                     </li>
