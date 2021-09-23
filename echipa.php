@@ -66,7 +66,7 @@
                             <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
                                 <div class="skill-box-two">
                                     <div class="main-title mb-5 text-lg-left wow fadeIn" data-wow-delay="300ms">
-                                        <h5>functie</h5> <!-- 2 be modified-->
+                                        <h5>Operations Manager</h5> <!-- 2 be modified-->
                                         <h2 class="ml-0">Diana Maxim</h2> <!-- 2 be modified-->
                                         <p>Imi place sa vad frumosul din orice- culorile rasaritului din diminetile mult prea matinale cand ai vrea sa dormi mai mult, zambetele din metrou, fluturii din mijlocul orasului exagerat de aglomerat. Dar cel mai mult imi place sa caut frumosul in oameni, cu povestile, experientele, obiceiurile si defectele lor. Frumosul este peste tot, trebuie doar sa iti pastrezi sufletul deschis, ori pentru a-l cauta, ori pentru a-i permite sa te gaseasca.</p> 
                                     </div>
@@ -111,7 +111,7 @@
                             <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
                                 <div class="skill-box-two">
                                     <div class="main-title mb-5 text-lg-left wow fadeIn" data-wow-delay="300ms">
-                                        <h5>functie</h5> <!-- 2 be modified-->
+                                        <h5>Media & Human Resources Manager </h5> <!-- 2 be modified-->
                                         <h2 class="ml-0">Maria Preoteasa</h2> <!-- 2 be modified-->
                                         <p>Îmi plac norii de aburi care se ridică deasupra muntelui dimineața. Îmi plac poeziile scrise la repezeală, între o stație și alta. Îmi plac oamenii când merg seara pe stradă, cu umbrele întinse pe trotuar.</p>
                                     </div>
@@ -133,7 +133,7 @@
                             <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
                                 <div class="skill-box-two">
                                     <div class="main-title mb-5 text-lg-left wow fadeIn" data-wow-delay="300ms">
-                                        <h5>functie</h5> <!-- 2 be modified-->
+                                        <h5>Strategy & Finance Manager</h5> <!-- 2 be modified-->
                                         <h2 class="ml-0">Ioana Barbu</h2> <!-- 2 be modified-->
                                         <p>Creația este nucleul diversității: de la vârfurile munților până la văile însorite, nimic nu este identic. Ești la fel de unic ca natura, iar creativitatea ta nu are limite. Dacă lumea ar fi altfel, probabil m-ai găsi scriind la o altitudine înaltă, undeva printre nori.</p>
                                     </div>
