@@ -15,7 +15,7 @@
                     </li>
                     <li><a href="geo:44.472333, 26.076362" class="wow fadeInUp google"><i class="ti ti-map"></i> </a></li>
 
-                    <li><a href="javascript:void(0)" class="wow fadeInUp instagram"><i class="ti ti-instagram"></i> </a>
+                    <li><a href="https://www.instagram.com/viviria.festival/" class="wow fadeInUp instagram"><i class="ti ti-instagram"></i> </a>
                     </li>
 
                 </ul>
@@ -24,7 +24,7 @@
                     All rights reserved | Viviria Festival
                 </p>
                 <p>
-                    Website developed with &nbsp<i class="fa fa-heart" style="color: #ff0000" aria-hidden="true"></i>&nbsp by <a href="https://radu-nicolae.com" style="color: #ff0000 !important; font-weight: 400 !important;">Radu Nicolae</a> and <a style="color: #ff0000 !important; font-weight: 400;" href="https://luanaionica.com">Luana Ionica</a>
+                    Website developed with &nbsp;<i class="fa fa-heart" style="color: #ff0000" aria-hidden="true"></i>&nbsp; by <a href="https://radu-nicolae.com" style="color: #ff0000 !important; font-weight: 400 !important;">Radu Nicolae</a> and <a style="color: #ff0000 !important; font-weight: 400;" href="https://luanaionica.com">Luana Ionica</a>
                 </p>
             </div>
         </div>
