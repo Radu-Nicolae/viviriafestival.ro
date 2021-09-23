@@ -63,7 +63,7 @@
                          data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;"
                          data-start="1000" data-splitin="none" data-splitout="none"
                          style="z-index:1; font-weight: 200; color: #ffffff;font-family: 'Poppins', sans-serif;text-transform:capitalize">
-                        Va invităm la
+                        Vă invităm la
                     </div>
                     <div class="tp-caption tp-resizeme rs-parallaxlevel-2"
                          data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
