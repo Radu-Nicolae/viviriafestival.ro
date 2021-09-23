@@ -2,10 +2,9 @@
 
 <div class="contact-box-shadow">
     <div class="text-left sm-text-center w-100">
-        <h2 class="color-black font-weight-normal mb-2rem text-capitalize"> Participa la Viviria
-            Festival!</h2>
+        <h2 class="color-black font-weight-normal mb-2rem text-capitalize"> Participă la Viviria Festival!</h2>
         <p class="contact-para-setting">
-            Va asteptam cu drag la Viviria festival! Pentru orice nelamurire nu ezitati sa ne contactati prin email sau telefonic!
+            Vă așteptăm cu drag la Viviria Festival! Pentru orice nelămurire, nu ezitați să ne contactați prin email sau telefonic!
         </p>
     </div>
     <div class="contact-info sm-text-center">
@@ -19,7 +18,7 @@
         </div>
         <div class="icon-box">
             <i class="ti ti-location-pin color-green"></i>
-            <p class="color-grey"> coming soon </p>
+            <a href="geo:44.472333, 26.076362"><p class="color-grey">Muzeul Național al Satului „Dimitrie Gusti”</p></a>
         </div>
     </div>
 </div>

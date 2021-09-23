@@ -63,7 +63,7 @@
                          data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;"
                          data-start="1000" data-splitin="none" data-splitout="none"
                          style="z-index:1; font-weight: 200; color: #ffffff;font-family: 'Poppins', sans-serif;text-transform:capitalize">
-                        Va invitam la
+                        Va invităm la
                     </div>
                     <div class="tp-caption tp-resizeme rs-parallaxlevel-2"
                          data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
@@ -93,8 +93,8 @@
                          data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;"
                          data-transform_out="s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
                          data-start="1000" data-splitin="none" data-splitout="none"
-                         style="z-index:3; font-weight: 100; color: #ffffff;font-family: 'Poppins', sans-serif;text-transform:capitalize">
-                        vara aceasta
+                         style="z-index:3; font-weight: 100; color: #ffffff;font-family: 'Poppins', sans-serif;text-transform:capitalize;">
+                        <span style="font-size: 70%">Literatură | Jurnalism | Scenaristică</span>
                     </div>
                     <div class="tp-caption tp-resizeme"
                          data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
@@ -110,7 +110,7 @@
                          data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
                          data-start="1500" data-splitin="none" data-splitout="none"
                          style="z-index:4; font-weight: 100; color: #ffffff; line-height:30px; font-family: 'Poppins', sans-serif;text-transform:capitalize">
-                        in curand mai multe detalii
+                        Muzeul Național al Satului „Dimitrie Gusti”
                     </div>
                     <div class="tp-caption tp-resizeme"
                          id="slide-24-layer-128" data-x="['center','center','center','center']"
@@ -150,7 +150,7 @@
         <div class="row">
             <div class="container">
                 <div class="main-title wow fadeIn" data-wow-delay="300ms">
-                    <h5 style="text-transform: none !important;"> Festival de Literatură </h5>
+                    <h5 style="text-transform: none !important;"> Festival de Literatură, Jurnalism și Scenaristică</h5>
                     <h2> Viviria </h2>
                     <p><b>De ce Viviria?</b> Pentru că este plin de viață: aici vei întâlni adolescenți ca tine, veseli,
                         creativi, deschiși. <br> <br> <b>De ce festival?</b> Pentru că festival înseamnă oameni
@@ -426,6 +426,7 @@
             <div class="item">
                 <img src="images/sponsor2.png" alt="Logo">
             </div>
+
         </div>
     </div>
 </section>

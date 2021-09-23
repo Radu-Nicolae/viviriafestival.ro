@@ -68,7 +68,7 @@
                                     <div class="main-title mb-5 text-lg-left wow fadeIn" data-wow-delay="300ms">
                                         <h5>Operations Manager</h5> <!-- 2 be modified-->
                                         <h2 class="ml-0">Diana Maxim</h2> <!-- 2 be modified-->
-                                        <p>Imi place sa vad frumosul din orice- culorile rasaritului din diminetile mult prea matinale cand ai vrea sa dormi mai mult, zambetele din metrou, fluturii din mijlocul orasului exagerat de aglomerat. Dar cel mai mult imi place sa caut frumosul in oameni, cu povestile, experientele, obiceiurile si defectele lor. Frumosul este peste tot, trebuie doar sa iti pastrezi sufletul deschis, ori pentru a-l cauta, ori pentru a-i permite sa te gaseasca.</p> 
+                                        <p>Îmi place să văd frumosul din orice - culorile răsăritului din diminețile mult prea matinale când ai vrea să dormi mai mult, zâmbetele din metrou, fluturii din mijlocul orașului exagerat de aglomerat. Dar cel mai mult îmi place să caut frumosul în oameni, cu poveștile, experiențele, obiceiurile și defectele lor. Frumosul este peste tot, trebuie doar să îți păstrezi sufletul deschis, ori pentru a-l căuta, ori pentru a-i permite să te găsească.</p>
                                     </div>
                                 </div>
                             </div>
