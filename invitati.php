@@ -67,14 +67,14 @@
                             <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
                                 <div class="image hover-effect team-single-img ml-lg-0">
                                     <!-- 2 be modified-->
-                                    <img src="alexandrafelseghi.jpg" alt="blog">
+                                    <img src="alexandrafelseghis.jpeg" alt="blog">
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
                                 <div class="skill-box-two">
                                     <div class="main-title mb-5 text-lg-left wow fadeIn" data-wow-delay="300ms">
                                         <h5>functie</h5> <!-- 2 be modified-->
-                                        <h2 class="ml-0">Alexandra Felseghi </h2> <!-- 2 be modified-->
+                                        <h2 class="ml-0">Alexandra Felseghis </h2> <!-- 2 be modified-->
                                         <p>Dramaturg și regizor, Alexandra Felseghi duce o bogată activitate artistică, în calitate de inițiator și de colaborator în realizarea proiectelor culturale. În 2011 a înfiinţat Asociaţia Create.Act.Enjoy alături de actrițele Diana Buluga și Raluca Lupan, în cadrul căreia a activat până în decembrie 2018. Scopul asociaţiei este de a contribui activ la definirea culturii independente în România, folosindu-se de modalităţi de exprimare inedite, racordate contemporaneităţii. În prezent, Alexandra Felseghi este cercetător în programul postdoctoral din cadrul Facultății de Teatru și Film (program desfășurat în perioada 2019-2021) și asistent universitar la departamentul de Teatrologie în cadrul aceleiași facultăți.</p> 
                                     </div>
                                 </div>
@@ -90,7 +90,7 @@
                             <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
                                 <div class="image hover-effect team-single-img ml-lg-0">
                                     <!-- 2 be modified-->
-                                    <img src="ruxandraghitescu.jpg" alt="blog">
+                                    <img src="ruxandraghitescu.jpeg" alt="blog">
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
@@ -113,7 +113,7 @@
                             <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
                                 <div class="image hover-effect team-single-img ml-lg-0">
                                     <!-- 2 be modified-->
-                                    <img src="corinasabou.jpg" alt="blog">
+                                    <img src="corinasafau.jpeg" alt="blog">
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
@@ -136,7 +136,7 @@
                             <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
                                 <div class="image hover-effect team-single-img ml-lg-0">
                                     <!-- 2 be modified-->
-                                    <img src="elenavladareanu.jpg" alt="blog">
+                                    <img src="elenavladareanu.jpeg" alt="blog">
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
@@ -159,7 +159,7 @@
                             <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
                                 <div class="image hover-effect team-single-img ml-lg-0">
                                     <!-- 2 be modified-->
-                                    <img src="svetlanacarstean.jpg" alt="blog">
+                                    <img src="svetlanacarstean.jpeg" alt="blog">
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
@@ -167,6 +167,52 @@
                                     <div class="main-title mb-5 text-lg-left wow fadeIn" data-wow-delay="300ms">
                                         <h5>functie</h5> <!-- 2 be modified-->
                                         <h2 class="ml-0">Svetlana Carstean</h2> <!-- 2 be modified-->
+                                        <p>asdfg</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <br><br><br>
+    <div class="item">
+                    <div class="container">
+                        <div class="row align-items-center">
+                            <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
+                                <div class="image hover-effect team-single-img ml-lg-0">
+                                    <!-- 2 be modified-->
+                                    <img src="luanaplesea.jpeg" alt="blog">
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
+                                <div class="skill-box-two">
+                                    <div class="main-title mb-5 text-lg-left wow fadeIn" data-wow-delay="300ms">
+                                        <h5>functie</h5> <!-- 2 be modified-->
+                                        <h2 class="ml-0">Luana Plesea</h2> <!-- 2 be modified-->
+                                        <p>asdfg</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <br><br><br>
+    <div class="item">
+                    <div class="container">
+                        <div class="row align-items-center">
+                            <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
+                                <div class="image hover-effect team-single-img ml-lg-0">
+                                    <!-- 2 be modified-->
+                                    <img src="elenazah.jpeg" alt="blog">
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
+                                <div class="skill-box-two">
+                                    <div class="main-title mb-5 text-lg-left wow fadeIn" data-wow-delay="300ms">
+                                        <h5>functie</h5> <!-- 2 be modified-->
+                                        <h2 class="ml-0">Elena Zah</h2> <!-- 2 be modified-->
                                         <p>asdfg</p>
                                     </div>
                                 </div>
