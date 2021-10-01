@@ -145,9 +145,9 @@ class Header
                 </a>
                 <div class="collapse navbar-collapse d-none d-lg-block">
                     <ul class="nav navbar-nav ml-auto">
-                        <li class="nav-item"> <a href="echipa.php" class=" nav-link link">Echipa</a>
+                        <li class="nav-item"> <a href="echipa.php" class=" nav-link link">Team</a>
                         </li>
-                        <li class="nav-item"> <a href="invitati.php" class=" nav-link link">Invitati</a>
+                        <li class="nav-item"> <a href="invitati.php" class=" nav-link link">Guests</a>
                         </li>
                         <li class="nav-item"> <a href="blog.php" class=" nav-link link">Blog</a>
                         </li>
