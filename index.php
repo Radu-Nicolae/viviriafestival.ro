@@ -152,10 +152,10 @@
                 <div class="main-title wow fadeIn" data-wow-delay="300ms">
                     <h5 style="text-transform: none !important;"> Festival de Literatură, Jurnalism și Scenaristică</h5>
                     <h2> Viviria </h2>
-                    <p><b>De ce Viviria?</b> Pentru că este plin de viață: aici vei întâlni adolescenți ca tine, veseli,
-                        creativi, deschiși. <br> <br> <b>De ce festival?</b> Pentru că festival înseamnă oameni
+                    <p><b style="font-size:120%">De ce Viviria? </b> Pentru că este plin de viață: aici vei întâlni adolescenți ca tine, veseli,
+                        creativi, deschiși. <br> <br> <b style="font-size:120%">De ce festival? </b> Pentru că festival înseamnă oameni
                         împreună, interacționând neîncetat, indiferent dacă au cărți și articole publicate sau doar
-                        câteva drafturi în laptop. <br><br> <b>De ce Viviria Festival?</b> Pentru că poate fi ocazia ta
+                        câteva drafturi în laptop. <br><br> <b style="font-size:120%">De ce Viviria Festival? </b> Pentru că poate fi ocazia ta
                         să scoți din buzunar ideile pe care le ai, să le pui pe foaie și cu ajutorul mentorilor
                         întâlniți aici să-ți definești stilul în care scrii. Proză, poezie, jurnalism sau scenaristică?
                         Sau poate toate? Înscrie-te la Viviria și află ce ți se potrivește!

@@ -35,14 +35,14 @@ class Header
                     </a>
                     <div id="menu" class="collapse navbar-collapse d-none d-lg-block mod-menu">
                         <ul class="nav navbar-nav ml-auto">
-                            <li class="nav-item mega-menu active"><a href="echipa.php" class="nav-link link">Team </a>
+                            <li class="nav-item mega-menu active"><a href="echipa.php" class="nav-link link">Echipă</a>
                             </li>
                             <li class="nav-item mega-menu active"><a href="invitati.php"
-                                                                     class="nav-link link">Guests</a></li>
+                                                                     class="nav-link link">Invitați</a></li>
                             <li class="nav-item mega-menu active"><a href="blog.php" class="nav-link link">Blog </a>
                             </li>
                             <li class="nav-item mega-menu active"><a href="contact.php"
-                                                                     class="nav-link link">Contact </a></li>
+                                                                     class="nav-link link">Contact</a></li>
                             <li class="nav-item mega-menu active"><a href="javascript:void(0)" class="nav-link link"><span
                                             class="join-us-navbar">coming soon</span></a></li>
                         </ul>
