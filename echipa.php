@@ -53,30 +53,6 @@
 
    <section id="team">
     <div class="container">
-        
-        <div class="item">
-                    <div class="container">
-                        <div class="row align-items-center">
-                            <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
-                                <div class="image hover-effect team-single-img ml-lg-0">
-                                    <!-- 2 be modified-->
-                                    <img src="membruechipa2.jpeg" alt="blog">
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
-                                <div class="skill-box-two">
-                                    <div class="main-title mb-5 text-lg-left wow fadeIn" data-wow-delay="300ms">
-                                        <h5>Operations Manager</h5> <!-- 2 be modified-->
-                                        <h2 class="ml-0">Diana Maxim</h2> <!-- 2 be modified-->
-                                        <p>Îmi place să văd frumosul din orice - culorile răsăritului din diminețile mult prea matinale când ai vrea să dormi mai mult, zâmbetele din metrou, fluturii din mijlocul orașului exagerat de aglomerat. Dar cel mai mult îmi place să caut frumosul în oameni, cu poveștile, experiențele, obiceiurile și defectele lor. Frumosul este peste tot, trebuie doar să îți păstrezi sufletul deschis, ori pentru a-l căuta, ori pentru a-i permite să te găsească.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-    <br><br><br>
     <div class="item">
                     <div class="container">
                         <div class="row align-items-center">
@@ -99,7 +75,8 @@
                     </div>
                 </div>
                 <br><br><br>
-    <div class="item">
+
+                <div class="item">
                     <div class="container">
                         <div class="row align-items-center">
                             <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
@@ -121,7 +98,8 @@
                     </div>
                 </div>
                 <br><br><br>
-    <div class="item">
+
+                <div class="item">
                     <div class="container">
                         <div class="row align-items-center">
                             <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
@@ -142,6 +120,33 @@
                         </div>
                     </div>
                 </div>
+                <br><br><br>
+        <div class="item">
+                    <div class="container">
+                        <div class="row align-items-center">
+                            <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
+                                <div class="image hover-effect team-single-img ml-lg-0">
+                                    <!-- 2 be modified-->
+                                    <img src="membruechipa2.jpeg" alt="blog">
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
+                                <div class="skill-box-two">
+                                    <div class="main-title mb-5 text-lg-left wow fadeIn" data-wow-delay="300ms">
+                                        <h5>Operations Manager</h5> <!-- 2 be modified-->
+                                        <h2 class="ml-0">Diana Maxim</h2> <!-- 2 be modified-->
+                                        <p>Îmi place să văd frumosul din orice - culorile răsăritului din diminețile mult prea matinale când ai vrea să dormi mai mult, zâmbetele din metrou, fluturii din mijlocul orașului exagerat de aglomerat. Dar cel mai mult îmi place să caut frumosul în oameni, cu poveștile, experiențele, obiceiurile și defectele lor. Frumosul este peste tot, trebuie doar să îți păstrezi sufletul deschis, ori pentru a-l căuta, ori pentru a-i permite să te găsească.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+    
+    
+    
+   
 </div>
 </section>
 
