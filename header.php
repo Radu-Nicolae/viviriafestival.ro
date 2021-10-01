@@ -67,8 +67,8 @@ class Header
                         <div class="position-relative">
                             <!-- Main Menu -->
                             <div class="navbar-nav side-main-menu">
-                                <a class="nav-link link" href="echipa.php">Team</a>
-                                <a class="nav-link link" href="invitati.php">Guests</a>
+                                <a class="nav-link link" href="echipa.php">Echipă</a>
+                                <a class="nav-link link" href="invitati.php">Invitați</a>
                                 <a class="nav-link link" href="blog.php">Blog</a>
                                 <a class="nav-link link" href="contact.php">Contact</a>
         
@@ -82,6 +82,7 @@ class Header
                         <ul class="social-icons-simple">
                             <li class="side-menu-icons"><a href="javascript:void(0)"><i class="ti ti-facebook color-white"></i>
                                 </a></li>
+                            <li><a href="geo:44.472333, 26.076362" target="_blank" class="wow fadeInUp google"><i class="ti ti-map"></i> </a></li>
                             <li class="side-menu-icons"><a href="javascript:void(0)"><i class="ti ti-instagram color-white"></i>
                                 </a></li>
                         </ul>
@@ -92,7 +93,7 @@ class Header
                             All rights reserved | Viviria Festival
                         </p>
                         <p class="text-white" style="font-weight: 400;">
-                            Website developed by <a href="https://radu-nicolae.com"
+                            Website developed with &nbsp;<i class="fa fa-heart" style="color: white" aria-hidden="true"></i>&nbsp; by <a href="https://radu-nicolae.com"
                                                     style="color: white !important; font-weight: 400 !important;text-decoration: underline !important;">Radu
                                 Nicolae</a> and <a
                                     style="color: white !important; font-weight: 400;text-decoration: underline !important;"
