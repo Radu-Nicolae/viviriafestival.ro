@@ -44,6 +44,39 @@ $header->getHeader2();
 
                             <?php include 'join-us-button.php' ?>
 
+                            <section id="team">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <div class="main-title wow fadeIn" data-wow-delay="300ms">
+                                                <h3 style="color:#d0920e; font-weight: 700">Invitați:</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="item">
+                                        <div class="container">
+                                            <div class="row align-items-center">
+                                                <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
+                                                    <div class="image hover-effect team-single-img ml-lg-0">
+                                                        <!-- 2 be modified-->
+                                                        <img src="elenazah.jpeg" alt="blog">
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
+                                                    <div class="skill-box-two">
+                                                        <div class="main-title mb-5 text-lg-left wow fadeIn" data-wow-delay="300ms">
+                                                            <h5></h5> <!-- 2 be modified-->
+                                                            <h2 class="ml-0">Elena Zah</h2> <!-- 2 be modified-->
+                                                            <p></p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </section>
 
                         </div>
                     </div>

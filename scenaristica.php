@@ -41,6 +41,62 @@ $header->getHeader2();
 
                             <?php include 'join-us-button.php' ?>
 
+                            <section id="team">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <div class="main-title wow fadeIn" data-wow-delay="300ms">
+                                                <h3 style="color:#d0920e; font-weight: 700">Invitați:</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="item">
+                                        <div class="container">
+                                            <div class="row align-items-center">
+                                                <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
+                                                    <div class="image hover-effect team-single-img ml-lg-0">
+                                                        <!-- 2 be modified-->
+                                                        <img src="ruxandraghitescu.jpeg" alt="blog">
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
+                                                    <div class="skill-box-two">
+                                                        <div class="main-title mb-5 text-lg-left wow fadeIn" data-wow-delay="300ms">
+                                                            <h5></h5> <!-- 2 be modified-->
+                                                            <h2 class="ml-0">Ruxandra Ghițescu</h2> <!-- 2 be modified-->
+                                                            <p>Ruxandra Ghitescu este scenaristă, regizoare și freelancer. S-a născut la 21 iulie 1981 în Constanța, România și a absolvit Media Art School Karlsruhe, Germania în 2012. Cunoscută pentru munca depusă în cadrul filmelor Otto Barbarul (2020), Ana is Coming Back (2016), Probleme de familie (2013), Urban Groove (2011) și The Birthday Boy (2017), Ruxandra a fost   nominalizată la Festivalul de Film de la Sarajevo și la Festivalul Internațional de Film din India și a câștigat Premiul Zilelor Filmului Românesc pentru secţiunea scurtmetraj la Festivalul Internațional de Film din Transilvania.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <br><br><br>
+                                    <div class="item">
+                                        <div class="container">
+                                            <div class="row align-items-center">
+                                                <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
+                                                    <div class="image hover-effect team-single-img ml-lg-0">
+                                                        <!-- 2 be modified-->
+                                                        <img src="alexandrafelseghis.jpeg" alt="blog">
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
+                                                    <div class="skill-box-two">
+                                                        <div class="main-title mb-5 text-lg-left wow fadeIn" data-wow-delay="300ms">
+                                                            <h5></h5> <!-- 2 be modified-->
+                                                            <h2 class="ml-0">Alexandra Felseghi</h2> <!-- 2 be modified-->
+                                                            <p></p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </section>
 
                         </div>
                     </div>

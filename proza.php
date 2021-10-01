@@ -42,7 +42,39 @@ $header->getHeader2();
 
                             <?php include 'join-us-button.php' ?>
 
+                            <section id="team">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <div class="main-title wow fadeIn" data-wow-delay="300ms">
+                                                <h3 style="color:#d0920e; font-weight: 700">Invitați:</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="item">
+                                        <div class="container">
+                                            <div class="row align-items-center">
+                                                <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
+                                                    <div class="image hover-effect team-single-img ml-lg-0">
+                                                        <!-- 2 be modified-->
+                                                        <img src="corinasafau.jpeg" alt="blog">
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
+                                                    <div class="skill-box-two">
+                                                        <div class="main-title mb-5 text-lg-left wow fadeIn" data-wow-delay="300ms">
+                                                            <h5></h5> <!-- 2 be modified-->
+                                                            <h2 class="ml-0">Corina Sabău</h2> <!-- 2 be modified-->
+                                                            <p>Corina Sabău este absolventă a Facultății de Litere, Universitatea din București. A debutat cu romanul Blocul 29, apartamentul 1 (2009), selecționat la Festivalul Primului Roman de la Chambéry, distins cu Premiul pentru debut în roman în cadrul Colocviilor Romanului Românesc și nominalizat la Premiile revistei Observator cultural și Marile Premii Prometheus.. În 2012 a publicat un al doilea roman, Dragostea, chiar ea. A fost coscenaristă a filmului Toată lumea din familia noastră (2012), regizat de Radu Jude și produs de Hi Film, câștigător a numeroase premii internaționale. Fragmente din romanul Și se auzeau greierii au apărut în antologia 16 prozatori de azi (Humanitas, 2018).</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
 
+                                </div>
+                            </section>
                         </div>
                     </div>
                 </div>

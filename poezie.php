@@ -47,10 +47,68 @@ $header->getHeader2();
                             <?php include 'join-us-button.php' ?>
 
 
+                            <section id="team">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <div class="main-title wow fadeIn" data-wow-delay="300ms">
+                                                <h3 style="color:#d0920e; font-weight: 700">Invitați:</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="item">
+                                        <div class="container">
+                                            <div class="row align-items-center">
+                                                <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
+                                                    <div class="image hover-effect team-single-img ml-lg-0">
+                                                        <!-- 2 be modified-->
+                                                        <img src="elenavladareanu.jpeg" alt="blog">
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
+                                                    <div class="skill-box-two">
+                                                        <div class="main-title mb-5 text-lg-left wow fadeIn" data-wow-delay="300ms">
+                                                            <h5></h5> <!-- 2 be modified-->
+                                                            <h2 class="ml-0">Elena Vlădăreanu</h2> <!-- 2 be modified-->
+                                                            <p>Elena Vlădăreanu este scriitoare și jurnalistă. A absolvit Facultatea de Litere la Universitatea din București, are studii de master la Centrul de Excelență în Studiul Imaginii (CESI) și în prezent lucrează la o cercetare doctorală, tot la CESI, despre biografii și autobiografii în teatru.  Este realizatoarea emisiunii Scena și ecranul la Radio România Cultural, unde vorbește despre filme. În decembrie 2018 a inițiat proiectul Zilele „Sofia Nădejde“, sub egida căruia s-a desfășurat, în ultimii trei ani, Gala Premiilor „Sofia Nădejde“ pentru Literatură Scrisă de Femei.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <br><br><br>
+                                    <div class="item">
+                                        <div class="container">
+                                            <div class="row align-items-center">
+                                                <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
+                                                    <div class="image hover-effect team-single-img ml-lg-0">
+                                                        <!-- 2 be modified-->
+                                                        <img src="svetlanacarstean.jpeg" alt="blog">
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
+                                                    <div class="skill-box-two">
+                                                        <div class="main-title mb-5 text-lg-left wow fadeIn" data-wow-delay="300ms">
+                                                            <h5></h5> <!-- 2 be modified-->
+                                                            <h2 class="ml-0">Svetlana Cârstean</h2> <!-- 2 be modified-->
+                                                            <p>Svetlana Cârstean este poetă și traducătoare. A debutat în 1994, în cadrul volumului colectiv Tablou de familie, alături de T.O. Bobe, Răzvan Rădulescu, Mihai Ignat, Sorin Gherguț și Cezar Paul-Bădescu. Volumul de debut individual, Floarea de menghină, a apărut în 2008, iar în 2013 a fost publicat în Suedia la Editura Rámus, în traducerea poetei suedeze Athena Farrokhzad. Poemele sale au fost traduse în numeroase limbi. A lansat în 2015 volumul Gravitație, la Editura Trei. În aprilie 2016, volumul Trado, scris împreună cu Athena Farrokhzad, a fost lansat în Suedia, de Editura Albert Bonnier în colaborare cu Editura Rámus.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </section>
+
                         </div>
                     </div>
                 </div>
             </div>
+
             <!-- Blog Widgets -->
             <div class="col-lg-4 col-md-5">
                 <div class="text-left">
@@ -68,6 +126,8 @@ $header->getHeader2();
     </div>
 </section>
 <!-- Blog ends -->
+
+
 
 <!-- Footer starts -->
 <?php include 'footer.php' ?>
