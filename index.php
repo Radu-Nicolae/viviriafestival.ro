@@ -152,10 +152,10 @@
                 <div class="main-title wow fadeIn" data-wow-delay="300ms">
                     <h5 style="text-transform: none !important;"> Festival de Literatură, Jurnalism și Scenaristică</h5>
                     <h2> Viviria </h2>
-                    <p><b style="font-size:120%">De ce Viviria? </b> Pentru că este plin de viață: aici vei întâlni adolescenți ca tine, veseli,
-                        creativi, deschiși. <br> <br> <b style="font-size:120%">De ce festival? </b> Pentru că festival înseamnă oameni
+                    <p style="font-size: 110%"><b style="font-size:120%">De ce Viviria?</b><br>Pentru că este plin de viață: aici vei întâlni adolescenți ca tine, veseli,
+                        creativi, deschiși. <br> <br> <b style="font-size:120%">De ce festival?</b><br> Pentru că festival înseamnă oameni
                         împreună, interacționând neîncetat, indiferent dacă au cărți și articole publicate sau doar
-                        câteva drafturi în laptop. <br><br> <b style="font-size:120%">De ce Viviria Festival? </b> Pentru că poate fi ocazia ta
+                        câteva drafturi în laptop. <br><br> <b style="font-size:120%">De ce Viviria Festival?</b><br> Pentru că poate fi ocazia ta
                         să scoți din buzunar ideile pe care le ai, să le pui pe foaie și cu ajutorul mentorilor
                         întâlniți aici să-ți definești stilul în care scrii. Proză, poezie, jurnalism sau scenaristică?
                         Sau poate toate? Înscrie-te la Viviria și află ce ți se potrivește!
@@ -176,7 +176,7 @@
                     </div>
                     <div class="features-content">
                         <h4 class="color-black font-weight-normal mb-10px">Participanți</h4>
-                        <p>Participanții sunt ca mine și ca tine, liceeni care s-au apucat de scris și care vor să afle
+                        <p style="font-size: 110%">Participanții sunt ca mine și ca tine, liceeni care s-au apucat de scris și care vor să afle
                             ce pot face mai departe cu gândurile neînțelese din Notes. </p>
                     </div>
                 </div>
@@ -186,7 +186,7 @@
                     </div>
                     <div class="features-content">
                         <h4 class="color-black font-weight-normal mb-10px">Mentori</h4>
-                        <p>Mentorii sunt oameni care scriu de ceva timp și a căror muncă o găsești în publicații, în
+                        <p style="font-size: 110%">Mentorii sunt oameni care scriu de ceva timp și a căror muncă o găsești în publicații, în
                             librării, în filme sau pe internet; experiența și curajul lor te pot inspira în ceea ce
                             faci.</p>
                     </div>
@@ -197,7 +197,7 @@
                     </div>
                     <div class="features-content">
                         <h4 class="color-black font-weight-normal mb-10px">Speakeri</h4>
-                        <p>Speakerii au nu doar experiență, dar și talentul să o împărtășească cu alții; sunt oameni
+                        <p style="font-size: 110%">Speakerii au nu doar experiență, dar și talentul să o împărtășească cu alții; sunt oameni
                             dedicați, pe care îți va plăcea să-i asculți.</p>
                     </div>
                 </div>

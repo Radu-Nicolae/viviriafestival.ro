@@ -4,11 +4,9 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="main-title wow fadeIn" data-wow-delay="300ms">
-                    <h5> A passionate team </h5>
-                    <h2> Our Experts </h2>
-                    <p>Curabitur mollis bibendum luctus. Duis suscipit vitae dui sed suscipit. Vestibulum auctor nunc
-                        vitae diam eleifend, in maximus metus sollicitudin. Quisque vitae sodales lectus. Nam porttitor
-                        justo sed mi finibus, vel tristique risus faucibus. </p>
+                    <h5> Din creație pentru creație </h5>
+                    <h2> Echipa Viviria </h2>
+                    <p> Viviria Festival se conturează în jurul dorinței de a deschide noi orizonturi și de a oferi un spațiu în care tinerii scriitori și jurnaliști aspiranți să primească feedback și să învețe de la persoane experimentate în aceste domenii. Ne dorim ca tinerii pasionați de scris să creeze legături puternice atât cu potențiali mentori, dar și între ei. Ne propunem un dublu schimb cultural: unul cu persoane adulte, care aduc o viziune matură asupra procesului de scriere și publicare, dar și una personală, specifică fiecărui participant asupra creației literare. </p>
                 </div>
             </div>
         </div>
