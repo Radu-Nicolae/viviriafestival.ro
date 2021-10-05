@@ -109,8 +109,8 @@
                          data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;"
                          data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
                          data-start="1500" data-splitin="none" data-splitout="none"
-                         style="z-index:4; font-weight: 100; color: #ffffff; line-height:30px; font-family: 'Poppins', sans-serif;text-transform:capitalize">
-                        Muzeul Național al Satului „Dimitrie Gusti”
+                         style="z-index:4; font-weight: 100; color: #ffffff; line-height:30px; font-family: 'Poppins', sans-serif;text-transform:capitalize;">
+                        <span style="font-size: 150% !important">8-10 Octombrie</span>
                     </div>
                     <div class="tp-caption tp-resizeme"
                          id="slide-24-layer-128" data-x="['center','center','center','center']"

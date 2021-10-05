@@ -18,7 +18,7 @@
         </div>
         <div class="icon-box">
             <i class="ti ti-location-pin color-green"></i>
-            <a href="geo:44.472333, 26.076362"><p class="color-grey">Muzeul Național al Satului „Dimitrie Gusti”</p></a>
+            <a><p class="color-grey">Online</p></a>
         </div>
     </div>
 </div>
