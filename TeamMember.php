@@ -91,7 +91,7 @@ class TeamMember{
         $ioana_barbu = new TeamMember("Ioana Cătălina Barbu", 'membruechipa3.jpeg', "Production Manager", 'Sufletul meu a fost făurit cu stângăcie de homo poetica, iar ochii mei au învățat să distingă poezii doar în penumbră. La vreme de furtună mă ascund sub o pelerină translucidă și strâng creația de mână. Mereu mă iau prin surprindere degetele ei pătate de cerneală și iluzii.');
         $maria_preoteasa = new TeamMember("Maria Preoteasa", 'membruechipa4.jpeg', 'Media & Human Resources Manager', 'Îmi plac norii de aburi care se ridică deasupra muntelui dimineața. Îmi plac poeziile scrise la repezeală, între o stație și alta. Îmi plac oamenii când merg seara pe stradă, cu umbrele întinse pe trotuar.');
         $ioana_barbu_2 = new TeamMember("Ioana Barbu", 'membruechipa5.jpeg', 'Strategy & Finance Manager', 'Creația este nucleul diversității: de la vârfurile munților până la văile însorite, nimic nu este identic. Ești la fel de unic ca natura, iar creativitatea ta nu are limite. Dacă lumea ar fi altfel, probabil m-ai găsi scriind la o altitudine înaltă, undeva printre nori.');
-        $diana_maxim = new TeamMember("Diana Maxim", 'membruechipa2.jpeg', 'Operations Manager', 'Imi place sa vad frumosul din orice- culorile rasaritului din diminetile mult prea matinale cand ai vrea sa dormi mai mult, zambetele din metrou, fluturii din mijlocul orasului exagerat de aglomerat. Dar cel mai mult imi place sa caut frumosul in oameni, cu povestile, experientele, obiceiurile si defectele lor. Frumosul este peste tot, trebuie doar sa iti pastrezi sufletul deschis, ori pentru a-l cauta, ori pentru a-i permite sa te gaseasca.');
+        $diana_maxim = new TeamMember("Diana Maxim", 'membruechipa2.jpeg', 'Operations Manager', 'Îmi place să văd frumosul din orice - culorile răsăritului din diminețile mult prea matinale când ai vrea să dormi mai mult, zâmbetele din metrou, fluturii din mijlocul orașului exagerat de aglomerat. Dar cel mai mult îmi place să caut frumosul în oameni, cu poveștile, experiențele, obiceiurile și defectele lor. Frumosul este peste tot, trebuie doar să îți păstrezi sufletul deschis, ori pentru a-l căuta, ori pentru a-i permite să te găsească.');
 
 
         return array($ioana_barbu, $maria_preoteasa, $ioana_barbu_2, $diana_maxim);
@@ -115,7 +115,7 @@ class TeamMember{
                                     <div class="main-title mb-5 text-lg-left wow fadeIn" data-wow-delay="300ms">
                                         <h5>'. $member->getPosition() .'</h5> <!-- 2 be modified-->
                                         <h2 class="ml-0">' . $member->getName() .'</h2> <!-- 2 be modified-->
-                                        <p>' . $member->getShortDescription() . '</p> 
+                                        <p style="font-size: 140%">' . $member->getShortDescription() . '</p> 
                                     </div>
                                 </div>
                             </div>
