@@ -11,7 +11,6 @@
 <?php include 'header.php'; $header = new Header(); $header->getHeader1(); ?>
 
 <!-- Main Section start -->
-
 <section id="home" class="p-0 no-transition h-100vh">
     <h2 class="d-none">heading</h2>
     <!--Main Slider-->
@@ -109,9 +108,9 @@
                          data-transform_in="z:0;rX:0deg;rY:0;rZ:0;sX:2;sY:2;skX:0;skY:0;opacity:0;s:1000;e:Power2.easeOut;"
                          data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;"
                          data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
-                         style="z-index:4; font-weight: 100; color: #ffffff; line-height:30px; font-family: 'Poppins', sans-serif;text-transform:capitalize;">
-                        data-start="1500" data-splitin="none" data-splitout="none"
-                        <span style="font-size: 150% !important">8-10 Octombrie</span>
+                         data-start="1500" data-splitin="none" data-splitout="none"
+                         style="z-index:4; font-weight: 100; color: #ffffff; line-height:30px; font-family: 'Poppins', sans-serif;text-transform:capitalize">
+                        <span style="font-size: 150%">8-10 Octombrie</span>
                     </div>
                     <div class="tp-caption tp-resizeme"
                          id="slide-24-layer-128" data-x="['center','center','center','center']"
@@ -141,6 +140,7 @@
     <!--Main Slider ends -->
 
 </section>
+<!-- Main Section end -->
 
 <!-- Main Section end -->
 
