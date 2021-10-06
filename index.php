@@ -11,7 +11,7 @@
 <?php include 'header.php'; $header = new Header(); $header->getHeader1(); ?>
 
 <!-- Main Section start -->
-<a target="_blank" href="https://forms.gle/UgCqKNKDCUnoBcRv6">
+
 <section id="home" class="p-0 no-transition h-100vh">
     <h2 class="d-none">heading</h2>
     <!--Main Slider-->
@@ -122,8 +122,7 @@
                          data-textAlign="['center','center','center','center']"
                          style="z-index:99; max-width: 960px">
                         <a target="_blank" href="https://forms.gle/UgCqKNKDCUnoBcRv6"
-                           class="btn-setting btn-hvr-setting-main btn-summer-sky color-white btn-hvr link">coming
-                            soon
+                           class="btn-setting btn-hvr-setting-main btn-summer-sky color-white btn-hvr link">Participă
                             <span class="btn-hvr-setting btn-hvr-white">
 						     <span class="btn-hvr-setting-inner">
 							 <span class="btn-hvr-effect"></span>
@@ -142,7 +141,6 @@
     <!--Main Slider ends -->
 
 </section>
-</a>
 <!-- Main Section end -->
 
 <!-- Features start -->
