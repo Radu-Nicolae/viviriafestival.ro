@@ -11,6 +11,7 @@
 <?php include 'header.php'; $header = new Header(); $header->getHeader1(); ?>
 
 <!-- Main Section start -->
+<a target="_blank" href="https://forms.gle/UgCqKNKDCUnoBcRv6">
 <section id="home" class="p-0 no-transition h-100vh">
     <h2 class="d-none">heading</h2>
     <!--Main Slider-->
@@ -120,8 +121,8 @@
                          data-frames='[{"delay":600,"speed":2000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:40px;","to":"o:1;fb:0;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
                          data-textAlign="['center','center','center','center']"
                          style="z-index:99; max-width: 960px">
-                        <a href="#features"
-                           class="scroll btn-setting btn-hvr-setting-main btn-summer-sky color-white btn-hvr link">coming
+                        <a target="_blank" href="https://forms.gle/UgCqKNKDCUnoBcRv6"
+                           class="btn-setting btn-hvr-setting-main btn-summer-sky color-white btn-hvr link">coming
                             soon
                             <span class="btn-hvr-setting btn-hvr-white">
 						     <span class="btn-hvr-setting-inner">
@@ -141,6 +142,7 @@
     <!--Main Slider ends -->
 
 </section>
+</a>
 <!-- Main Section end -->
 
 <!-- Features start -->
