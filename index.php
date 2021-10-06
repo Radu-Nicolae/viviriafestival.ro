@@ -528,10 +528,9 @@
                                 }
                             </style>
                             <div class="col-lg-12 pt-xs-25px text-center join-us-contact">
-                                <button type="submit" class="btn-setting btn-hvr-setting-main btn-yellow btn-hvr"
+                                <a target="_blank" href="https://forms.gle/UgCqKNKDCUnoBcRv6"><button type="submit" class="btn-setting btn-hvr-setting-main btn-yellow btn-hvr"
                                         id="submit_btn"><i class="ti ti-reload ti-reload mr-2 d-none"
-                                                           aria-hidden="true"></i><b class="font-weight-normal">Coming
-                                        soon</b>
+                                                           aria-hidden="true"></i><b class="font-weight-normal">Participă</b>
                                     <span class="btn-hvr-setting btn-hvr-summer-sky">
                                  <span class="btn-hvr-setting-inner">
                                  <span class="btn-hvr-effect"></span>
@@ -541,6 +540,7 @@
                                  </span>
                                 </span>
                                 </button>
+                                </a>
                             </div>
                         </div>
                     </form>

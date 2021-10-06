@@ -43,8 +43,8 @@ class Header
                             </li>
                             <li class="nav-item mega-menu active"><a href="contact.php"
                                                                      class="nav-link link">Contact</a></li>
-                            <li class="nav-item mega-menu active"><a href="javascript:void(0)" class="nav-link link"><span
-                                            class="join-us-navbar">coming soon</span></a></li>
+                            <li class="nav-item mega-menu active"><a href="https://forms.gle/UgCqKNKDCUnoBcRv6" class="nav-link link"><span
+                                            class="join-us-navbar">Participă</span></a></li>
                         </ul>
                     </div>
         
@@ -71,6 +71,7 @@ class Header
                                 <a class="nav-link link" href="invitati.php">Invitați</a>
                                 <a class="nav-link link" href="blog.php">Blog</a>
                                 <a class="nav-link link" href="contact.php">Contact</a>
+                                <a class="nav-link link" href="https://forms.gle/UgCqKNKDCUnoBcRv6">Participă</a>
         
         
                                 <a class="menu-line"><i class="ti ti-angle-right" aria-hidden="true"></i></a>
