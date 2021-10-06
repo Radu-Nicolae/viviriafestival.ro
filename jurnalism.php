@@ -67,7 +67,8 @@ $header->getHeader2();
                                                         <div class="main-title mb-5 text-lg-left wow fadeIn" data-wow-delay="300ms">
                                                             <h5></h5> <!-- 2 be modified-->
                                                             <h2 class="ml-0">Elena Zah</h2> <!-- 2 be modified-->
-                                                            <p></p>
+                                                            <p>Bună, salutare și heilo! <br>
+                                                                Mă numesc Elena și sunt studentă la automatică în Cluj. Stați, stați, mai e ceva de spus despre mine. De fapt, e mereu ceva de spus în plus despre oricine. Mie îmi plac oamenii. Mult de tot. Ador să-i aud și să înțeleg poveștile lor și ghiciți ce, îmi mai place și să scriu. Așa că am combinat cele două obsesii ale mele și am încercat să fac realitatea la fel de interesantă ca în seriale. Jurnalismul le-a combinat cel mai bine și în cadrul revistei dedicate tinerilor, “Gen, revistă”, am reușit să îmi onorez visul. Așa că, pentru oricine e curios și îi pasă de ce se întâmplă în jurul nostru și în noi, eu nu pot face nimic altceva decât să fiu teribil de entuziasmată să împărtășesc din visul meu devenit realitate.</p>
                                                         </div>
                                                     </div>
                                                 </div>
