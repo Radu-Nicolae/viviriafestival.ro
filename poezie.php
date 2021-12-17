@@ -67,10 +67,21 @@ $header->getHeader2();
                                                 </div>
                                                 <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
                                                     <div class="skill-box-two">
-                                                        <div class="main-title mb-5 text-lg-left wow fadeIn" data-wow-delay="300ms">
+                                                        <div class="main-title mb-5 text-lg-left wow fadeIn"
+                                                             data-wow-delay="300ms">
                                                             <h5></h5> <!-- 2 be modified-->
                                                             <h2 class="ml-0">Elena Vlădăreanu</h2> <!-- 2 be modified-->
-                                                            <p>Elena Vlădăreanu este scriitoare și jurnalistă. A absolvit Facultatea de Litere la Universitatea din București, are studii de master la Centrul de Excelență în Studiul Imaginii (CESI) și în prezent lucrează la o cercetare doctorală, tot la CESI, despre biografii și autobiografii în teatru.  Este realizatoarea emisiunii Scena și ecranul la Radio România Cultural, unde vorbește despre filme. În decembrie 2018 a inițiat proiectul Zilele „Sofia Nădejde“, sub egida căruia s-a desfășurat, în ultimii trei ani, Gala Premiilor „Sofia Nădejde“ pentru Literatură Scrisă de Femei.</p>
+                                                            <p>Elena Vlădăreanu este scriitoare și jurnalistă. A
+                                                                absolvit Facultatea de Litere la Universitatea din
+                                                                București, are studii de master la Centrul de Excelență
+                                                                în Studiul Imaginii (CESI) și în prezent lucrează la o
+                                                                cercetare doctorală, tot la CESI, despre biografii și
+                                                                autobiografii în teatru. Este realizatoarea emisiunii
+                                                                Scena și ecranul la Radio România Cultural, unde
+                                                                vorbește despre filme. În decembrie 2018 a inițiat
+                                                                proiectul Zilele „Sofia Nădejde“, sub egida căruia s-a
+                                                                desfășurat, în ultimii trei ani, Gala Premiilor „Sofia
+                                                                Nădejde“ pentru Literatură Scrisă de Femei.</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -90,10 +101,218 @@ $header->getHeader2();
                                                 </div>
                                                 <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
                                                     <div class="skill-box-two">
-                                                        <div class="main-title mb-5 text-lg-left wow fadeIn" data-wow-delay="300ms">
+                                                        <div class="main-title mb-5 text-lg-left wow fadeIn"
+                                                             data-wow-delay="300ms">
                                                             <h5></h5> <!-- 2 be modified-->
-                                                            <h2 class="ml-0">Svetlana Cârstean</h2> <!-- 2 be modified-->
-                                                            <p>Svetlana Cârstean este poetă și traducătoare. A debutat în 1994, în cadrul volumului colectiv Tablou de familie, alături de T.O. Bobe, Răzvan Rădulescu, Mihai Ignat, Sorin Gherguț și Cezar Paul-Bădescu. Volumul de debut individual, Floarea de menghină, a apărut în 2008, iar în 2013 a fost publicat în Suedia la Editura Rámus, în traducerea poetei suedeze Athena Farrokhzad. Poemele sale au fost traduse în numeroase limbi. A lansat în 2015 volumul Gravitație, la Editura Trei. În aprilie 2016, volumul Trado, scris împreună cu Athena Farrokhzad, a fost lansat în Suedia, de Editura Albert Bonnier în colaborare cu Editura Rámus.</p>
+                                                            <h2 class="ml-0">Svetlana Cârstean</h2>
+                                                            <!-- 2 be modified-->
+                                                            <p>Svetlana Cârstean este poetă și traducătoare. A debutat
+                                                                în 1994, în cadrul volumului colectiv Tablou de familie,
+                                                                alături de T.O. Bobe, Răzvan Rădulescu, Mihai Ignat,
+                                                                Sorin Gherguț și Cezar Paul-Bădescu. Volumul de debut
+                                                                individual, Floarea de menghină, a apărut în 2008, iar
+                                                                în 2013 a fost publicat în Suedia la Editura Rámus, în
+                                                                traducerea poetei suedeze Athena Farrokhzad. Poemele
+                                                                sale au fost traduse în numeroase limbi. A lansat în
+                                                                2015 volumul Gravitație, la Editura Trei. În aprilie
+                                                                2016, volumul Trado, scris împreună cu Athena
+                                                                Farrokhzad, a fost lansat în Suedia, de Editura Albert
+                                                                Bonnier în colaborare cu Editura Rámus.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <br><br><br>
+                                    <div class="item">
+                                        <div class="container">
+                                            <div class="row align-items-center">
+                                                <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
+                                                    <div class="image hover-effect team-single-img ml-lg-0">
+                                                        <!-- 2 be modified-->
+                                                        <img src="elenazah.jpeg" alt="blog">
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
+                                                    <div class="skill-box-two">
+                                                        <div class="main-title mb-5 text-lg-left wow fadeIn"
+                                                             data-wow-delay="300ms">
+                                                            <h5></h5> <!-- 2 be modified-->
+                                                            <h2 class="ml-0">Elena Zah</h2> <!-- 2 be modified-->
+                                                            <p>Bună, salutare și heilo! Mă numesc Elena și sunt studentă
+                                                                la automatică în Cluj. Stați, stați, mai e ceva de spus
+                                                                despre mine. De fapt, e mereu ceva de spus în plus
+                                                                despre oricine. Mie îmi plac oamenii. Mult de tot. Ador
+                                                                să-i aud și să înțeleg poveștile lor și ghiciți ce, îmi
+                                                                mai place și să scriu. Așa că am combinat cele două
+                                                                obsesii ale mele și am încercat să fac realitatea la fel
+                                                                de interesantă ca în seriale. Jurnalismul le-a combinat
+                                                                cel mai bine și în cadrul revistei dedicate tinerilor,
+                                                                “Gen, revistă”, am reușit să îmi onorez visul. Așa că,
+                                                                pentru oricine e curios și îi pasă de ce se întâmplă în
+                                                                jurul nostru și în noi, eu nu pot face nimic altceva
+                                                                decât să fiu teribil de entuziasmată să împărtășesc din
+                                                                visul meu devenit realitate.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <br><br><br>
+                                    <div class="item">
+                                        <div class="container">
+                                            <div class="row align-items-center">
+                                                <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
+                                                    <div class="image hover-effect team-single-img ml-lg-0">
+                                                        <!-- 2 be modified-->
+                                                        <img src="elenazah.jpeg" alt="blog">
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
+                                                    <div class="skill-box-two">
+                                                        <div class="main-title mb-5 text-lg-left wow fadeIn"
+                                                             data-wow-delay="300ms">
+                                                            <h5></h5> <!-- 2 be modified-->
+                                                            <h2 class="ml-0">Lena Chilari</h2> <!-- 2 be modified-->
+                                                            <p> Sunt Lena Chilari, am 26 de ani și scriu poezie. Sunt
+                                                                din satul Pepeni, raionul Sîngerei, Republica Moldova,
+                                                                iar acum locuiesc la Cluj. Am publicat în Steaua, Vatra,
+                                                                Echinox, Timpul, Apostrof și pe O mie de semne. Primul
+                                                                meu volum se numește O cană de noviciok la bătrânețe și
+                                                                este publicat la editura Tracus Arte, în 2020. Te aștept
+                                                                la atelier să facem poezie și s-o citim cu voce
+                                                                tare.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <br><br><br>
+                                    <div class="item">
+                                        <div class="container">
+                                            <div class="row align-items-center">
+                                                <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
+                                                    <div class="image hover-effect team-single-img ml-lg-0">
+                                                        <!-- 2 be modified-->
+                                                        <img src="elenazah.jpeg" alt="blog">
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
+                                                    <div class="skill-box-two">
+                                                        <div class="main-title mb-5 text-lg-left wow fadeIn"
+                                                             data-wow-delay="300ms">
+                                                            <h5></h5> <!-- 2 be modified-->
+                                                            <h2 class="ml-0">Lena Chilari</h2> <!-- 2 be modified-->
+                                                            <p> Sunt Lena Chilari, am 26 de ani și scriu poezie. Sunt
+                                                                din satul Pepeni, raionul Sîngerei, Republica Moldova,
+                                                                iar acum locuiesc la Cluj. Am publicat în Steaua, Vatra,
+                                                                Echinox, Timpul, Apostrof și pe O mie de semne. Primul
+                                                                meu volum se numește O cană de noviciok la bătrânețe și
+                                                                este publicat la editura Tracus Arte, în 2020. Te aștept
+                                                                la atelier să facem poezie și s-o citim cu voce
+                                                                tare.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                    <br><br><br>
+                                    <div class="item">
+                                        <div class="container">
+                                            <div class="row align-items-center">
+                                                <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
+                                                    <div class="image hover-effect team-single-img ml-lg-0">
+                                                        <!-- 2 be modified-->
+                                                        <img src="elenazah.jpeg" alt="blog">
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
+                                                    <div class="skill-box-two">
+                                                        <div class="main-title mb-5 text-lg-left wow fadeIn"
+                                                             data-wow-delay="300ms">
+                                                            <h5></h5> <!-- 2 be modified-->
+                                                            <h2 class="ml-0">Lena Chilari</h2> <!-- 2 be modified-->
+                                                            <p> Sunt Lena Chilari, am 26 de ani și scriu poezie. Sunt
+                                                                din satul Pepeni, raionul Sîngerei, Republica Moldova,
+                                                                iar acum locuiesc la Cluj. Am publicat în Steaua, Vatra,
+                                                                Echinox, Timpul, Apostrof și pe O mie de semne. Primul
+                                                                meu volum se numește O cană de noviciok la bătrânețe și
+                                                                este publicat la editura Tracus Arte, în 2020. Te aștept
+                                                                la atelier să facem poezie și s-o citim cu voce
+                                                                tare.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                    <br><br><br>
+                                    <div class="item">
+                                        <div class="container">
+                                            <div class="row align-items-center">
+                                                <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
+                                                    <div class="image hover-effect team-single-img ml-lg-0">
+                                                        <!-- 2 be modified-->
+                                                        <img src="elenazah.jpeg" alt="blog">
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
+                                                    <div class="skill-box-two">
+                                                        <div class="main-title mb-5 text-lg-left wow fadeIn"
+                                                             data-wow-delay="300ms">
+                                                            <h5></h5> <!-- 2 be modified-->
+                                                            <h2 class="ml-0">Lena Chilari</h2> <!-- 2 be modified-->
+                                                            <p> Sunt Lena Chilari, am 26 de ani și scriu poezie. Sunt
+                                                                din satul Pepeni, raionul Sîngerei, Republica Moldova,
+                                                                iar acum locuiesc la Cluj. Am publicat în Steaua, Vatra,
+                                                                Echinox, Timpul, Apostrof și pe O mie de semne. Primul
+                                                                meu volum se numește O cană de noviciok la bătrânețe și
+                                                                este publicat la editura Tracus Arte, în 2020. Te aștept
+                                                                la atelier să facem poezie și s-o citim cu voce
+                                                                tare.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                    <br><br><br>
+                                    <div class="item">
+                                        <div class="container">
+                                            <div class="row align-items-center">
+                                                <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
+                                                    <div class="image hover-effect team-single-img ml-lg-0">
+                                                        <!-- 2 be modified-->
+                                                        <img src="elenazah.jpeg" alt="blog">
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
+                                                    <div class="skill-box-two">
+                                                        <div class="main-title mb-5 text-lg-left wow fadeIn"
+                                                             data-wow-delay="300ms">
+                                                            <h5></h5> <!-- 2 be modified-->
+                                                            <h2 class="ml-0">Lena Chilari</h2> <!-- 2 be modified-->
+                                                            <p> Sunt Lena Chilari, am 26 de ani și scriu poezie. Sunt
+                                                                din satul Pepeni, raionul Sîngerei, Republica Moldova,
+                                                                iar acum locuiesc la Cluj. Am publicat în Steaua, Vatra,
+                                                                Echinox, Timpul, Apostrof și pe O mie de semne. Primul
+                                                                meu volum se numește O cană de noviciok la bătrânețe și
+                                                                este publicat la editura Tracus Arte, în 2020. Te aștept
+                                                                la atelier să facem poezie și s-o citim cu voce
+                                                                tare.</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -126,7 +345,6 @@ $header->getHeader2();
     </div>
 </section>
 <!-- Blog ends -->
-
 
 
 <!-- Footer starts -->

@@ -37,7 +37,9 @@ $header->getHeader2();
 
                             <div>
                                 <p>
-                                    Personaje captivante, acțiune complicată sau doar suspans până la capăt? Dacă îți place să construiești povești și vrei să faci totul next level, atunci locul tău e la secțiunea de proză.                                 </p>
+                                    Personaje captivante, acțiune complicată sau doar suspans până la capăt? Dacă îți
+                                    place să construiești povești și vrei să faci totul next level, atunci locul tău e
+                                    la secțiunea de proză. </p>
                             </div>
 
                             <?php include 'join-us-button.php' ?>
@@ -62,19 +64,77 @@ $header->getHeader2();
                                                 </div>
                                                 <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
                                                     <div class="skill-box-two">
-                                                        <div class="main-title mb-5 text-lg-left wow fadeIn" data-wow-delay="300ms">
+                                                        <div class="main-title mb-5 text-lg-left wow fadeIn"
+                                                             data-wow-delay="300ms">
                                                             <h5></h5> <!-- 2 be modified-->
                                                             <h2 class="ml-0">Corina Sabău</h2> <!-- 2 be modified-->
-                                                            <p>Corina Sabău este absolventă a Facultății de Litere, Universitatea din București. A debutat cu romanul Blocul 29, apartamentul 1 (2009), selecționat la Festivalul Primului Roman de la Chambéry, distins cu Premiul pentru debut în roman în cadrul Colocviilor Romanului Românesc și nominalizat la Premiile revistei Observator cultural și Marile Premii Prometheus.. În 2012 a publicat un al doilea roman, Dragostea, chiar ea. A fost coscenaristă a filmului Toată lumea din familia noastră (2012), regizat de Radu Jude și produs de Hi Film, câștigător a numeroase premii internaționale. Fragmente din romanul Și se auzeau greierii au apărut în antologia 16 prozatori de azi (Humanitas, 2018).</p>
+                                                            <p>Corina Sabău este absolventă a Facultății de Litere,
+                                                                Universitatea din București. A debutat cu romanul Blocul
+                                                                29, apartamentul 1 (2009), selecționat la Festivalul
+                                                                Primului Roman de la Chambéry, distins cu Premiul pentru
+                                                                debut în roman în cadrul Colocviilor Romanului Românesc
+                                                                și nominalizat la Premiile revistei Observator cultural
+                                                                și Marile Premii Prometheus.. În 2012 a publicat un al
+                                                                doilea roman, Dragostea, chiar ea. A fost coscenaristă a
+                                                                filmului Toată lumea din familia noastră (2012), regizat
+                                                                de Radu Jude și produs de Hi Film, câștigător a
+                                                                numeroase premii internaționale. Fragmente din romanul
+                                                                Și se auzeau greierii au apărut în antologia 16
+                                                                prozatori de azi (Humanitas, 2018).</p>
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-
+                                    <div class="item">
+                                        <div class="container">
+                                            <div class="row align-items-center">
+                                                <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
+                                                    <div class="image hover-effect team-single-img ml-lg-0">
+                                                        <!-- 2 be modified-->
+                                                        <img src="lucianbrad.jpeg" alt="blog">
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
+                                                    <div class="skill-box-two">
+                                                        <div class="main-title mb-5 text-lg-left wow fadeIn"
+                                                             data-wow-delay="300ms">
+                                                            <h5></h5> <!-- 2 be modified-->
+                                                            <h2 class="ml-0">Lucian Brad</h2> <!-- 2 be modified-->
+                                                            <p>Lucian Brad (n. 1996, Vaslui) a absolvit Facultatea de Drept la Iași. A publicat volumul „Un om mai important decât oamenii” (2020), nominalizat la Premiul Național de Poezie „Mihai Eminescu”. În prezent, locuiește în Iași.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="item">
+                                        <div class="container">
+                                            <div class="row align-items-center">
+                                                <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
+                                                    <div class="image hover-effect team-single-img ml-lg-0">
+                                                        <!-- 2 be modified-->
+                                                        <img src="radubaciu.jpeg" alt="blog">
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
+                                                    <div class="skill-box-two">
+                                                        <div class="main-title mb-5 text-lg-left wow fadeIn"
+                                                             data-wow-delay="300ms">
+                                                            <h5></h5> <!-- 2 be modified-->
+                                                            <h2 class="ml-0">Radu Baciu</h2> <!-- 2 be modified-->
+                                                            <p>Radu Baciu este student în anul II de licență la Facultatea de Business și Turism din cadrul ASE București. În ciuda aspectului matematic al drumului pe care a ales să-l urmeze, conexiunile sale cu literatura datează de la cele mai fragede vârste și au devenit tot mai puternice pe măsură ce anii au trecut, trecând de la adolescent la primele provocări ale vieții de adult. Absolvent al Colegiului Național „Sfântul Sava”, Radu a așternut pe hârtie și a trimis în lume impresiile vieții de licean, înglobate în romanul al cărui autor este, „Umbre sub lumina reflectoarelor”, editura Eikon, lansat la Bookfest 2019. Premiile obținute la faza națională a Olimpiadei de Limbă și Literatură Română și la numeroase concursuri au fost o confirmare a pasiunii sale pentru scris și a dorinței ca gândurile și sentimentele sale să ajungă prin litere și cuvinte să inspire oameni, aducându-i una din cele mai mari satisfacții sufletești.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                             </section>
+
+
                         </div>
                     </div>
                 </div>
