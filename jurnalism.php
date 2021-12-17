@@ -37,7 +37,9 @@ $header->getHeader2();
 
                             <div>
                                 <p>
-                                    Poate tu ești genul care observă cum se întâmplă lucrurile în jurul tău, îți e ușor să le pui oamenilor întrebări și să scrii din perspective diferite. Cea mai potrivită pentru tine pare secțiunea de jurnalism.
+                                    Poate tu ești genul care observă cum se întâmplă lucrurile în jurul tău, îți e ușor
+                                    să le pui oamenilor întrebări și să scrii din perspective diferite. Cea mai
+                                    potrivită pentru tine pare secțiunea de jurnalism.
 
                                 </p>
                             </div>
@@ -53,22 +55,32 @@ $header->getHeader2();
                                             </div>
                                         </div>
                                     </div>
+
                                     <div class="item">
                                         <div class="container">
                                             <div class="row align-items-center">
                                                 <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
                                                     <div class="image hover-effect team-single-img ml-lg-0">
                                                         <!-- 2 be modified-->
-                                                        <img src="elenazah.jpeg" alt="blog">
+                                                        <img src="luanaplesea.jpeg" alt="blog">
                                                     </div>
                                                 </div>
                                                 <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
                                                     <div class="skill-box-two">
-                                                        <div class="main-title mb-5 text-lg-left wow fadeIn" data-wow-delay="300ms">
+                                                        <div class="main-title mb-5 text-lg-left wow fadeIn"
+                                                             data-wow-delay="300ms">
                                                             <h5></h5> <!-- 2 be modified-->
-                                                            <h2 class="ml-0">Elena Zah</h2> <!-- 2 be modified-->
-                                                            <p>Bună, salutare și heilo! <br>
-                                                                Mă numesc Elena și sunt studentă la automatică în Cluj. Stați, stați, mai e ceva de spus despre mine. De fapt, e mereu ceva de spus în plus despre oricine. Mie îmi plac oamenii. Mult de tot. Ador să-i aud și să înțeleg poveștile lor și ghiciți ce, îmi mai place și să scriu. Așa că am combinat cele două obsesii ale mele și am încercat să fac realitatea la fel de interesantă ca în seriale. Jurnalismul le-a combinat cel mai bine și în cadrul revistei dedicate tinerilor, “Gen, revistă”, am reușit să îmi onorez visul. Așa că, pentru oricine e curios și îi pasă de ce se întâmplă în jurul nostru și în noi, eu nu pot face nimic altceva decât să fiu teribil de entuziasmată să împărtășesc din visul meu devenit realitate.</p>
+                                                            <h2 class="ml-0">Luana Pleșea</h2> <!-- 2 be modified-->
+                                                            <p>La Radio România Cultural, Luana Pleșea realizează,
+                                                                împreună cu Anca Mateescu, GPS Cultural – o emisiune de
+                                                                actualitate culturală și dezbateri, prin care își
+                                                                dorește nu doar să-i informeze pe ascultători, ci și să
+                                                                le aducă speranță și zâmbet. Mai ales acum, în perioada
+                                                                atât de tulbure pe care o trăim. Era învățătoare, acum
+                                                                aproape 20 de ani când a venit la Radio și, în scurt
+                                                                timp, a simțit că aici îi este locul. Iubește dansul
+                                                                dintotdeauna, în toate formele sale, dar este
+                                                                specializată și pe problemele Uniunii Europene.</p>
                                                         </div>
                                                     </div>
                                                 </div>
