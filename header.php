@@ -94,6 +94,12 @@ class Header
                             All rights reserved | Viviria Festival
                         </p>
                         <p class="text-white" style="font-weight: 400;">
+                            Website maintenance by <a href="https://radu-nicolae.com"
+                                                    style="color: white !important; font-weight: 400 !important;text-decoration: underline !important;">Radu
+                                Nicolae</a>
+                        </p>
+                        <br>
+                        <p class="text-white" style="font-weight: 400;">
                             Website developed with &nbsp;<i class="fa fa-heart" style="color: white" aria-hidden="true"></i>&nbsp; by <a href="https://radu-nicolae.com"
                                                     style="color: white !important; font-weight: 400 !important;text-decoration: underline !important;">Radu
                                 Nicolae</a> and <a
