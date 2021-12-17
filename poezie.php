@@ -169,7 +169,7 @@ $header->getHeader2();
                                                 <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
                                                     <div class="image hover-effect team-single-img ml-lg-0">
                                                         <!-- 2 be modified-->
-                                                        <img src="elenazah.jpeg" alt="blog">
+                                                        <img src="lenachilari.jpeg" alt="blog">
                                                     </div>
                                                 </div>
                                                 <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
@@ -200,7 +200,7 @@ $header->getHeader2();
                                                 <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
                                                     <div class="image hover-effect team-single-img ml-lg-0">
                                                         <!-- 2 be modified-->
-                                                        <img src="elenazah.jpeg" alt="blog">
+                                                        <img src="teonaFarmatu.jpeg" alt="blog">
                                                     </div>
                                                 </div>
                                                 <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
@@ -208,15 +208,17 @@ $header->getHeader2();
                                                         <div class="main-title mb-5 text-lg-left wow fadeIn"
                                                              data-wow-delay="300ms">
                                                             <h5></h5> <!-- 2 be modified-->
-                                                            <h2 class="ml-0">Lena Chilari</h2> <!-- 2 be modified-->
-                                                            <p> Sunt Lena Chilari, am 26 de ani și scriu poezie. Sunt
-                                                                din satul Pepeni, raionul Sîngerei, Republica Moldova,
-                                                                iar acum locuiesc la Cluj. Am publicat în Steaua, Vatra,
-                                                                Echinox, Timpul, Apostrof și pe O mie de semne. Primul
-                                                                meu volum se numește O cană de noviciok la bătrânețe și
-                                                                este publicat la editura Tracus Arte, în 2020. Te aștept
-                                                                la atelier să facem poezie și s-o citim cu voce
-                                                                tare.</p>
+                                                            <h2 class="ml-0">Teona Farmatu</h2> <!-- 2 be modified-->
+                                                            <p> Teona Farmatu (n. 30.07.1999, Piatra-Neamț) este
+                                                                masterandă în anul I la secția Studii literare românești
+                                                                din cadrul Facultății de Litere, UBB. Scrie poezie și
+                                                                cronică literară. A publicat texte în câteva reviste din
+                                                                țară: Vatra, Echinox, Metacritic Journal for Comparative
+                                                                Studies and Theory, Transilvania, Apostrof, Steaua,
+                                                                Dacoromania litteraria, precum și pe blogul DLITE. A
+                                                                citit poezie la Institutul Blecher și la Nepotu’ lui
+                                                                Thoreau. În prezent, este redactor al revistei Echinox
+                                                                și se dedică cercetării literare.</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -232,7 +234,7 @@ $header->getHeader2();
                                                 <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
                                                     <div class="image hover-effect team-single-img ml-lg-0">
                                                         <!-- 2 be modified-->
-                                                        <img src="elenazah.jpeg" alt="blog">
+                                                        <img src="claudiuIoanMaftei.jpeg" alt="blog">
                                                     </div>
                                                 </div>
                                                 <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
@@ -240,15 +242,14 @@ $header->getHeader2();
                                                         <div class="main-title mb-5 text-lg-left wow fadeIn"
                                                              data-wow-delay="300ms">
                                                             <h5></h5> <!-- 2 be modified-->
-                                                            <h2 class="ml-0">Lena Chilari</h2> <!-- 2 be modified-->
-                                                            <p> Sunt Lena Chilari, am 26 de ani și scriu poezie. Sunt
-                                                                din satul Pepeni, raionul Sîngerei, Republica Moldova,
-                                                                iar acum locuiesc la Cluj. Am publicat în Steaua, Vatra,
-                                                                Echinox, Timpul, Apostrof și pe O mie de semne. Primul
-                                                                meu volum se numește O cană de noviciok la bătrânețe și
-                                                                este publicat la editura Tracus Arte, în 2020. Te aștept
-                                                                la atelier să facem poezie și s-o citim cu voce
-                                                                tare.</p>
+                                                            <h2 class="ml-0">Claudiu Ioan Maftei</h2>
+                                                            <!-- 2 be modified-->
+                                                            <p> Claudiu Ioan Maftei este student la masterul de
+                                                                Lingvistică Computațională din Iași. A participat la
+                                                                lecturi publice și de performance incluzând Maratonul de
+                                                                poezie FILIT și Cozy Poetry Night. A publicat poezii in
+                                                                revista Steaua. A fost colaborator la volumul Un om mai
+                                                                important decât oamenii (Lucian Brad, OMG, 2020).</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -264,7 +265,7 @@ $header->getHeader2();
                                                 <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
                                                     <div class="image hover-effect team-single-img ml-lg-0">
                                                         <!-- 2 be modified-->
-                                                        <img src="elenazah.jpeg" alt="blog">
+                                                        <img src="florentinPopa.jpeg" alt="blog">
                                                     </div>
                                                 </div>
                                                 <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
@@ -272,15 +273,16 @@ $header->getHeader2();
                                                         <div class="main-title mb-5 text-lg-left wow fadeIn"
                                                              data-wow-delay="300ms">
                                                             <h5></h5> <!-- 2 be modified-->
-                                                            <h2 class="ml-0">Lena Chilari</h2> <!-- 2 be modified-->
-                                                            <p> Sunt Lena Chilari, am 26 de ani și scriu poezie. Sunt
-                                                                din satul Pepeni, raionul Sîngerei, Republica Moldova,
-                                                                iar acum locuiesc la Cluj. Am publicat în Steaua, Vatra,
-                                                                Echinox, Timpul, Apostrof și pe O mie de semne. Primul
-                                                                meu volum se numește O cană de noviciok la bătrânețe și
-                                                                este publicat la editura Tracus Arte, în 2020. Te aștept
-                                                                la atelier să facem poezie și s-o citim cu voce
-                                                                tare.</p>
+                                                            <h2 class="ml-0">Florentin Popa</h2> <!-- 2 be modified-->
+                                                            <p> Florentin Popa (n. 1989) face parte din redacția Mafia
+                                                                Sonetelor, o revistă independentă poeziei formale. Și-a
+                                                                făcut debutul prin lucrarea „Trips, heroes & lovesongs”,
+                                                                care a ajuns pe piață în 2014 și căreia i-a urmat
+                                                                „Efrafa”. „Florentin Popa a apărut în poezia română ca
+                                                                un OZN. A bombardat psihotronic, a plasat cipuri, a
+                                                                modificat ADN-ul și subrutinele. Acum este deja un
+                                                                clasic. Dar un clasic full de scheme de atac pe care
+                                                                оncă nu le-a identificat nimeni.” - Mihai Iovănel</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -296,7 +298,7 @@ $header->getHeader2();
                                                 <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
                                                     <div class="image hover-effect team-single-img ml-lg-0">
                                                         <!-- 2 be modified-->
-                                                        <img src="elenazah.jpeg" alt="blog">
+                                                        <img src="andreiDobos.jpeg" alt="blog">
                                                     </div>
                                                 </div>
                                                 <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
@@ -304,15 +306,8 @@ $header->getHeader2();
                                                         <div class="main-title mb-5 text-lg-left wow fadeIn"
                                                              data-wow-delay="300ms">
                                                             <h5></h5> <!-- 2 be modified-->
-                                                            <h2 class="ml-0">Lena Chilari</h2> <!-- 2 be modified-->
-                                                            <p> Sunt Lena Chilari, am 26 de ani și scriu poezie. Sunt
-                                                                din satul Pepeni, raionul Sîngerei, Republica Moldova,
-                                                                iar acum locuiesc la Cluj. Am publicat în Steaua, Vatra,
-                                                                Echinox, Timpul, Apostrof și pe O mie de semne. Primul
-                                                                meu volum se numește O cană de noviciok la bătrânețe și
-                                                                este publicat la editura Tracus Arte, în 2020. Te aștept
-                                                                la atelier să facem poezie și s-o citim cu voce
-                                                                tare.</p>
+                                                            <h2 class="ml-0">Andrei Doboş</h2> <!-- 2 be modified-->
+                                                            <p> Andrei Doboş s-a născut la 6 august 1984, în Turda. Este absolvent al Facultăţii de Litere a Universităţii „Babeş-Bolyai” din Cluj-Napoca, iar în prezent urmează studii doctorale la aceeaşi universitate.  În perioada facultăţii a fost redactor la revista Echinox, apoi, între 2009 şi 2014, redactor la Editura Casa Cărţii de Ştiinţă din Cluj-Napoca. A publicat poeme şi articole în revistele România literară, Tribuna, Vatra, Echinox, Steaua etc.  A debutat editorial cu mănăştur story, Editura Vinea, 2007 (Premiul „Iustin Panţa”, 2008, şi nominalizare la Premiul pentru debut al Uniunii Scriitorilor din România, 2008). În 2011 a publicat volumul de versuri Inevitabil (Editura Casa de Pariuri Literare). În 2015 a publicat la Cartea Românească volumul Valea rea.</p>
                                                         </div>
                                                     </div>
                                                 </div>
