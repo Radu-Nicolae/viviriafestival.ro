@@ -427,6 +427,9 @@
             <div class="item">
                 <img src="images/sponsor2.png" alt="Logo">
             </div>
+            <div class="item">
+                <img src="images/sponsor3.png" alt="Logo">
+            </div>
 
         </div>
     </div>

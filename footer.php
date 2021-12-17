@@ -24,7 +24,11 @@
                     All rights reserved | Viviria Festival
                 </p>
                 <p>
-                    Website developed with &nbsp;<i class="fa fa-heart" style="color: #ff0000" aria-hidden="true"></i>&nbsp; by <a href="https://radu-nicolae.com" style="color: #ff0000 !important; font-weight: 400 !important;">Radu Nicolae</a> and <a style="color: #ff0000 !important; font-weight: 400;" href="https://luanaionica.com">Luana Ionica</a>
+                    Website maintenance by <a href="https://radu-nicolae.com" style="color: #ff0000 !important; font-weight: 400 !important;">Radu Nicolae</a></a>
+                </p>
+                <br>
+                <p>
+                    Developed with &nbsp;<i class="fa fa-heart" style="color: #ff0000" aria-hidden="true"></i>&nbsp; by <a href="https://radu-nicolae.com" style="color: #ff0000 !important; font-weight: 400 !important;">Radu Nicolae</a> and <a style="color: #ff0000 !important; font-weight: 400;" href="https://luanaionica.com">Luana Ionica</a>
                 </p>
             </div>
         </div>

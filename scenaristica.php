@@ -186,7 +186,7 @@ $header->getHeader2();
                                             </div>
                                         </div>
                                     </div>
-                                    
+
                                 </div>
                             </section>
 
