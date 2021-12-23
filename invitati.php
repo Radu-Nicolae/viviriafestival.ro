@@ -53,13 +53,12 @@ $header->getHeader2();
 <!-- Page Header -->
 
 <!-- Team start -->
-
 <section id="team">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <div class="main-title wow fadeIn" data-wow-delay="300ms">
-                    <h3 style="color:#d0920e; font-weight: 700">Invitați:</h3>
+                    <h3 style="color:#d0920e; font-weight: 700">Poezie:</h3>
                 </div>
             </div>
         </div>
@@ -325,7 +324,287 @@ $header->getHeader2();
     </div>
 </section>
 
+<section id="team">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="main-title wow fadeIn" data-wow-delay="300ms">
+                    <h3 style="color:#d0920e; font-weight: 700">Proza:</h3>
+                </div>
+            </div>
+        </div>
+        <div class="item">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
+                        <div class="image hover-effect team-single-img ml-lg-0">
+                            <!-- 2 be modified-->
+                            <img src="corinasafau.jpeg" alt="blog">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
+                        <div class="skill-box-two">
+                            <div class="main-title mb-5 text-lg-left wow fadeIn"
+                                 data-wow-delay="300ms">
+                                <h5></h5> <!-- 2 be modified-->
+                                <h2 class="ml-0">Corina Sabău</h2> <!-- 2 be modified-->
+                                <p>Corina Sabău este absolventă a Facultății de Litere,
+                                    Universitatea din București. A debutat cu romanul Blocul
+                                    29, apartamentul 1 (2009), selecționat la Festivalul
+                                    Primului Roman de la Chambéry, distins cu Premiul pentru
+                                    debut în roman în cadrul Colocviilor Romanului Românesc
+                                    și nominalizat la Premiile revistei Observator cultural
+                                    și Marile Premii Prometheus.. În 2012 a publicat un al
+                                    doilea roman, Dragostea, chiar ea. A fost coscenaristă a
+                                    filmului Toată lumea din familia noastră (2012), regizat
+                                    de Radu Jude și produs de Hi Film, câștigător a
+                                    numeroase premii internaționale. Fragmente din romanul
+                                    Și se auzeau greierii au apărut în antologia 16
+                                    prozatori de azi (Humanitas, 2018).</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="item">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
+                        <div class="image hover-effect team-single-img ml-lg-0">
+                            <!-- 2 be modified-->
+                            <img src="lucianbrad.jpeg" alt="blog">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
+                        <div class="skill-box-two">
+                            <div class="main-title mb-5 text-lg-left wow fadeIn"
+                                 data-wow-delay="300ms">
+                                <h5></h5> <!-- 2 be modified-->
+                                <h2 class="ml-0">Lucian Brad</h2> <!-- 2 be modified-->
+                                <p>Lucian Brad (n. 1996, Vaslui) a absolvit Facultatea de Drept la Iași. A publicat volumul „Un om mai important decât oamenii” (2020), nominalizat la Premiul Național de Poezie „Mihai Eminescu”. În prezent, locuiește în Iași.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="item">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
+                        <div class="image hover-effect team-single-img ml-lg-0">
+                            <!-- 2 be modified-->
+                            <img src="radubaciu.jpeg" alt="blog">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
+                        <div class="skill-box-two">
+                            <div class="main-title mb-5 text-lg-left wow fadeIn"
+                                 data-wow-delay="300ms">
+                                <h5></h5> <!-- 2 be modified-->
+                                <h2 class="ml-0">Radu Baciu</h2> <!-- 2 be modified-->
+                                <p>Radu Baciu este student în anul II de licență la Facultatea de Business și Turism din cadrul ASE București. În ciuda aspectului matematic al drumului pe care a ales să-l urmeze, conexiunile sale cu literatura datează de la cele mai fragede vârste și au devenit tot mai puternice pe măsură ce anii au trecut, trecând de la adolescent la primele provocări ale vieții de adult. Absolvent al Colegiului Național „Sfântul Sava”, Radu a așternut pe hârtie și a trimis în lume impresiile vieții de licean, înglobate în romanul al cărui autor este, „Umbre sub lumina reflectoarelor”, editura Eikon, lansat la Bookfest 2019. Premiile obținute la faza națională a Olimpiadei de Limbă și Literatură Română și la numeroase concursuri au fost o confirmare a pasiunii sale pentru scris și a dorinței ca gândurile și sentimentele sale să ajungă prin litere și cuvinte să inspire oameni, aducându-i una din cele mai mari satisfacții sufletești.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
+<section id="team">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="main-title wow fadeIn" data-wow-delay="300ms">
+                    <h3 style="color:#d0920e; font-weight: 700">Jurnalism:</h3>
+                </div>
+            </div>
+        </div>
+
+        <div class="item">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
+                        <div class="image hover-effect team-single-img ml-lg-0">
+                            <!-- 2 be modified-->
+                            <img src="luanaplesea.jpeg" alt="blog">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
+                        <div class="skill-box-two">
+                            <div class="main-title mb-5 text-lg-left wow fadeIn"
+                                 data-wow-delay="300ms">
+                                <h5></h5> <!-- 2 be modified-->
+                                <h2 class="ml-0">Luana Pleșea</h2> <!-- 2 be modified-->
+                                <p>La Radio România Cultural, Luana Pleșea realizează,
+                                    împreună cu Anca Mateescu, GPS Cultural – o emisiune de
+                                    actualitate culturală și dezbateri, prin care își
+                                    dorește nu doar să-i informeze pe ascultători, ci și să
+                                    le aducă speranță și zâmbet. Mai ales acum, în perioada
+                                    atât de tulbure pe care o trăim. Era învățătoare, acum
+                                    aproape 20 de ani când a venit la Radio și, în scurt
+                                    timp, a simțit că aici îi este locul. Iubește dansul
+                                    dintotdeauna, în toate formele sale, dar este
+                                    specializată și pe problemele Uniunii Europene.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
+
+<section id="team">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="main-title wow fadeIn" data-wow-delay="300ms">
+                    <h3 style="color:#d0920e; font-weight: 700">Invitați:</h3>
+                </div>
+            </div>
+        </div>
+        <div class="item">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
+                        <div class="image hover-effect team-single-img ml-lg-0">
+                            <!-- 2 be modified-->
+                            <img src="ruxandraghitescu.jpeg" alt="blog">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
+                        <div class="skill-box-two">
+                            <div class="main-title mb-5 text-lg-left wow fadeIn"
+                                 data-wow-delay="300ms">
+                                <h5></h5> <!-- 2 be modified-->
+                                <h2 class="ml-0">Ruxandra Ghițescu</h2>
+                                <!-- 2 be modified-->
+                                <p>Ruxandra Ghitescu este scenaristă, regizoare și
+                                    freelancer. S-a născut la 21 iulie 1981 în Constanța,
+                                    România și a absolvit Media Art School Karlsruhe,
+                                    Germania în 2012. Cunoscută pentru munca depusă în
+                                    cadrul filmelor Otto Barbarul (2020), Ana is Coming Back
+                                    (2016), Probleme de familie (2013), Urban Groove (2011)
+                                    și The Birthday Boy (2017), Ruxandra a fost nominalizată
+                                    la Festivalul de Film de la Sarajevo și la Festivalul
+                                    Internațional de Film din India și a câștigat Premiul
+                                    Zilelor Filmului Românesc pentru secţiunea scurtmetraj
+                                    la Festivalul Internațional de Film din
+                                    Transilvania.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <br><br><br>
+        <div class="item">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
+                        <div class="image hover-effect team-single-img ml-lg-0">
+                            <!-- 2 be modified-->
+                            <img src="alexandraGheorghe.jpeg" alt="blog">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
+                        <div class="skill-box-two">
+                            <div class="main-title mb-5 text-lg-left wow fadeIn"
+                                 data-wow-delay="300ms">
+                                <h5></h5> <!-- 2 be modified-->
+                                <h2 class="ml-0">Alexandra Gheorghe</h2>
+                                <!-- 2 be modified-->
+                                <p>Alexandra (26) este o scriitoare experimentală, analist
+                                    de film și regizoare a cărei artă celebrează
+                                    non-liniaritatea și natura fragmentară a conștiinței.
+                                    Este fondatoarea C'MON, un workshop de scriere creativă
+                                    care promovează scrisul ca obicei integrat în viața de
+                                    zi cu zi, îmbrățișând creațiile colective și
+                                    interactivitatea. În viziunea ei, nu este obligatoriu ca
+                                    orice text scris să aibă o paternitate unică – tocmai de
+                                    aceea, împreună cu studenții ei, Alexandra aplică la
+                                    open call-uri internaționale, concursuri și reviste care
+                                    să-i ajute în a-și construi un portofoliu și un network
+                                    în domeniu.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <br><br><br>
+        <div class="item">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
+                        <div class="image hover-effect team-single-img ml-lg-0">
+                            <!-- 2 be modified-->
+                            <img src="liviaStoica.jpeg" alt="blog">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
+                        <div class="skill-box-two">
+                            <div class="main-title mb-5 text-lg-left wow fadeIn"
+                                 data-wow-delay="300ms">
+                                <h5></h5> <!-- 2 be modified-->
+                                <h2 class="ml-0">Livia Stoica</h2>
+                                <!-- 2 be modified-->
+                                <p>Livia Stoica are 32 de ani, este scriitoare, critic de
+                                    teatru, dramaturg și artist vizual. A studiat sociologie
+                                    și teatru la Bath Spa University în Anglia și ulterior a
+                                    absolvit și Teatru și Film la UNATC București. A scris
+                                    cronică de teatru pentru revista Yorick, Agenda
+                                    Liternet, a colaborat pentru Vice și s-a apucat de
+                                    predat scriere creativă datorită unor liceeni din
+                                    Colegiul Național Gheorghe Lazăr. Ține cursuri de
+                                    dezvoltare a creativității prin scriere spontană.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <br><br><br>
+        <div class="item">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
+                        <div class="image hover-effect team-single-img ml-lg-0">
+                            <!-- 2 be modified-->
+                            <img src="alinaPietrareanu.jpeg" alt="blog">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
+                        <div class="skill-box-two">
+                            <div class="main-title mb-5 text-lg-left wow fadeIn"
+                                 data-wow-delay="300ms">
+                                <h5></h5> <!-- 2 be modified-->
+                                <h2 class="ml-0">Alina Pietrăreanu</h2>
+                                <!-- 2 be modified-->
+                                <p>Alina Pietrăreanu este absolventă a Univeristății de Artă
+                                    Teatrală și Cinematografică „Ion Luca Caragiale” din
+                                    București, specializarea Artele Spectacolului – Actorie.
+                                    Este cofondatoarea Șangrila-La Artistic Ground și este
+                                    specializată în Performance Writing.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
 
 <!-- Team ends -->
 
