@@ -41,7 +41,7 @@ $header->getHeader2();
                 <h2 class="text-white mt-5 mb-2">Invitati</h2>
                 <p class="text-white">We offer the most creative web designs.</p>
                 <div class="page_nav bg-white d-inline-block">
-                    <span>Te aflii aici:</span> <a href="index.php" class="d-inline-block color-white"
+                    <span>Te afli aici:</span> <a href="index.php" class="d-inline-block color-white"
                                                    style="color: white">Home</a> <span class="color-summer-sky"><i
                                 class="ti ti-angle-double-right"></i>Invitati</span>
                 </div>
