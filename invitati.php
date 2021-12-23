@@ -3,229 +3,333 @@
 <?php include 'head.php' ?>
 <body data-spy="scroll" data-target=".navbar" data-offset="90">
 <style>
-        .join-us-navbar{
-            color: #d0920e;
-            font-weight: 800;
-            border: 2px solid #d0920e;
-            padding: 15px !important;
-            border-radius: 50px;
-        }
-        .join-us-navbar:hover{
-            color: white;
-            background-color: #d0920e;
-            transition: 300ms;
-        }
+    .join-us-navbar {
+        color: #d0920e;
+        font-weight: 800;
+        border: 2px solid #d0920e;
+        padding: 15px !important;
+        border-radius: 50px;
+    }
 
-        .nav-link:hover{
-            color:#d0920e !important;
-            transition: 300ms;
-        }
-    </style>
+    .join-us-navbar:hover {
+        color: white;
+        background-color: #d0920e;
+        transition: 300ms;
+    }
 
-    <!-- Loader -->
-    <?php include 'loader.php' ?>
-    <!-- Loader ends -->
+    .nav-link:hover {
+        color: #d0920e !important;
+        transition: 300ms;
+    }
+</style>
 
-    <?php include 'header.php';
-        $header = new Header();
-        $header->getHeader2();
-    ?>
+<!-- Loader -->
+<?php include 'loader.php' ?>
+<!-- Loader ends -->
 
-    <!-- Page Header -->
-   <!-- Page Header -->
-   <section class="page_header pb-0 w-100">
-      <div class="container">
-          <div class="row">
-              <div class="col-md-12 page-content position-relative">
-                  <h2 class="text-white mt-5 mb-2">Invitati</h2>
-                  <p class="text-white">We offer the most creative web designs.</p>
-                  <div class="page_nav bg-white d-inline-block">
-                      <span>Te aflii aici:</span> <a href="index.php" class="d-inline-block color-white" style="color: white">Home</a> <span class="color-summer-sky"><i class="ti ti-angle-double-right"></i>Invitati</span>
-                  </div>
-              </div>
-          </div>
-      </div>
-    </section>
-    <!-- Page Header -->
-    <!-- Page Header -->
+<?php include 'header.php';
+$header = new Header();
+$header->getHeader2();
+?>
 
-   <!-- Team start -->
+<!-- Page Header -->
+<!-- Page Header -->
+<section class="page_header pb-0 w-100">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 page-content position-relative">
+                <h2 class="text-white mt-5 mb-2">Invitati</h2>
+                <p class="text-white">We offer the most creative web designs.</p>
+                <div class="page_nav bg-white d-inline-block">
+                    <span>Te aflii aici:</span> <a href="index.php" class="d-inline-block color-white"
+                                                   style="color: white">Home</a> <span class="color-summer-sky"><i
+                                class="ti ti-angle-double-right"></i>Invitati</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Page Header -->
+<!-- Page Header -->
 
-   <section id="team">
+<!-- Team start -->
+
+<section id="team">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <div class="main-title wow fadeIn" data-wow-delay="300ms">
-                    <h5> Acestia sunt invitatii nostri</h5>
-                    <h2> Scenaristica:</h2>
+                    <h3 style="color:#d0920e; font-weight: 700">Invitați:</h3>
                 </div>
             </div>
         </div>
         <div class="item">
-                    <div class="container">
-                        <div class="row align-items-center">
-                            <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
-                                <div class="image hover-effect team-single-img ml-lg-0">
-                                    <!-- 2 be modified-->
-                                    <img src="alexandrafelseghis.jpeg" alt="blog">
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
-                                <div class="skill-box-two">
-                                    <div class="main-title mb-5 text-lg-left wow fadeIn" data-wow-delay="300ms">
-                                        <h5>functie</h5> <!-- 2 be modified-->
-                                        <h2 class="ml-0">Alexandra Felseghis </h2> <!-- 2 be modified-->
-                                        <p>Dramaturg și regizor, Alexandra Felseghi duce o bogată activitate artistică, în calitate de inițiator și de colaborator în realizarea proiectelor culturale. În 2011 a înfiinţat Asociaţia Create.Act.Enjoy alături de actrițele Diana Buluga și Raluca Lupan, în cadrul căreia a activat până în decembrie 2018. Scopul asociaţiei este de a contribui activ la definirea culturii independente în România, folosindu-se de modalităţi de exprimare inedite, racordate contemporaneităţii. În prezent, Alexandra Felseghi este cercetător în programul postdoctoral din cadrul Facultății de Teatru și Film (program desfășurat în perioada 2019-2021) și asistent universitar la departamentul de Teatrologie în cadrul aceleiași facultăți.</p> 
-                                    </div>
-                                </div>
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
+                        <div class="image hover-effect team-single-img ml-lg-0">
+                            <!-- 2 be modified-->
+                            <img src="elenavladareanu.jpeg" alt="blog">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
+                        <div class="skill-box-two">
+                            <div class="main-title mb-5 text-lg-left wow fadeIn"
+                                 data-wow-delay="300ms">
+                                <h5></h5> <!-- 2 be modified-->
+                                <h2 class="ml-0">Elena Vlădăreanu</h2> <!-- 2 be modified-->
+                                <p>Elena Vlădăreanu este scriitoare și jurnalistă. A
+                                    absolvit Facultatea de Litere la Universitatea din
+                                    București, are studii de master la Centrul de Excelență
+                                    în Studiul Imaginii (CESI) și în prezent lucrează la o
+                                    cercetare doctorală, tot la CESI, despre biografii și
+                                    autobiografii în teatru. Este realizatoarea emisiunii
+                                    Scena și ecranul la Radio România Cultural, unde
+                                    vorbește despre filme. În decembrie 2018 a inițiat
+                                    proiectul Zilele „Sofia Nădejde“, sub egida căruia s-a
+                                    desfășurat, în ultimii trei ani, Gala Premiilor „Sofia
+                                    Nădejde“ pentru Literatură Scrisă de Femei.</p>
                             </div>
                         </div>
                     </div>
                 </div>
+            </div>
+        </div>
 
-    <br><br><br>
-    <div class="item">
-                    <div class="container">
-                        <div class="row align-items-center">
-                            <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
-                                <div class="image hover-effect team-single-img ml-lg-0">
-                                    <!-- 2 be modified-->
-                                    <img src="ruxandraghitescu.jpeg" alt="blog">
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
-                                <div class="skill-box-two">
-                                    <div class="main-title mb-5 text-lg-left wow fadeIn" data-wow-delay="300ms">
-                                        <h5>functie</h5> <!-- 2 be modified-->
-                                        <h2 class="ml-0">Ruxandra Ghitescu</h2> <!-- 2 be modified-->
-                                        <p>asdfg</p>
-                                    </div>
-                                </div>
+        <br><br><br>
+        <div class="item">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
+                        <div class="image hover-effect team-single-img ml-lg-0">
+                            <!-- 2 be modified-->
+                            <img src="svetlanacarstean.jpeg" alt="blog">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
+                        <div class="skill-box-two">
+                            <div class="main-title mb-5 text-lg-left wow fadeIn"
+                                 data-wow-delay="300ms">
+                                <h5></h5> <!-- 2 be modified-->
+                                <h2 class="ml-0">Svetlana Cârstean</h2>
+                                <!-- 2 be modified-->
+                                <p>Svetlana Cârstean este poetă și traducătoare. A debutat
+                                    în 1994, în cadrul volumului colectiv Tablou de familie,
+                                    alături de T.O. Bobe, Răzvan Rădulescu, Mihai Ignat,
+                                    Sorin Gherguț și Cezar Paul-Bădescu. Volumul de debut
+                                    individual, Floarea de menghină, a apărut în 2008, iar
+                                    în 2013 a fost publicat în Suedia la Editura Rámus, în
+                                    traducerea poetei suedeze Athena Farrokhzad. Poemele
+                                    sale au fost traduse în numeroase limbi. A lansat în
+                                    2015 volumul Gravitație, la Editura Trei. În aprilie
+                                    2016, volumul Trado, scris împreună cu Athena
+                                    Farrokhzad, a fost lansat în Suedia, de Editura Albert
+                                    Bonnier în colaborare cu Editura Rámus.</p>
                             </div>
                         </div>
                     </div>
                 </div>
+            </div>
+        </div>
 
-                <br><br><br>
-    <div class="item">
-                    <div class="container">
-                        <div class="row align-items-center">
-                            <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
-                                <div class="image hover-effect team-single-img ml-lg-0">
-                                    <!-- 2 be modified-->
-                                    <img src="corinasafau.jpeg" alt="blog">
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
-                                <div class="skill-box-two">
-                                    <div class="main-title mb-5 text-lg-left wow fadeIn" data-wow-delay="300ms">
-                                        <h5>functie</h5> <!-- 2 be modified-->
-                                        <h2 class="ml-0">Corina Sabou</h2> <!-- 2 be modified-->
-                                        <p>asdfg</p>
-                                    </div>
-                                </div>
+        <br><br><br>
+        <div class="item">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
+                        <div class="image hover-effect team-single-img ml-lg-0">
+                            <!-- 2 be modified-->
+                            <img src="elenazah.jpeg" alt="blog">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
+                        <div class="skill-box-two">
+                            <div class="main-title mb-5 text-lg-left wow fadeIn"
+                                 data-wow-delay="300ms">
+                                <h5></h5> <!-- 2 be modified-->
+                                <h2 class="ml-0">Elena Zah</h2> <!-- 2 be modified-->
+                                <p>Bună, salutare și heilo! Mă numesc Elena și sunt studentă
+                                    la automatică în Cluj. Stați, stați, mai e ceva de spus
+                                    despre mine. De fapt, e mereu ceva de spus în plus
+                                    despre oricine. Mie îmi plac oamenii. Mult de tot. Ador
+                                    să-i aud și să înțeleg poveștile lor și ghiciți ce, îmi
+                                    mai place și să scriu. Așa că am combinat cele două
+                                    obsesii ale mele și am încercat să fac realitatea la fel
+                                    de interesantă ca în seriale. Jurnalismul le-a combinat
+                                    cel mai bine și în cadrul revistei dedicate tinerilor,
+                                    “Gen, revistă”, am reușit să îmi onorez visul. Așa că,
+                                    pentru oricine e curios și îi pasă de ce se întâmplă în
+                                    jurul nostru și în noi, eu nu pot face nimic altceva
+                                    decât să fiu teribil de entuziasmată să împărtășesc din
+                                    visul meu devenit realitate.</p>
                             </div>
                         </div>
                     </div>
                 </div>
-        
-                <br><br><br>
-    <div class="item">
-                    <div class="container">
-                        <div class="row align-items-center">
-                            <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
-                                <div class="image hover-effect team-single-img ml-lg-0">
-                                    <!-- 2 be modified-->
-                                    <img src="elenavladareanu.jpeg" alt="blog">
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
-                                <div class="skill-box-two">
-                                    <div class="main-title mb-5 text-lg-left wow fadeIn" data-wow-delay="300ms">
-                                        <h5>functie</h5> <!-- 2 be modified-->
-                                        <h2 class="ml-0">Elena Vladareanu</h2> <!-- 2 be modified-->
-                                        <p>asdfg</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+            </div>
+        </div>
 
-                <br><br><br>
-    <div class="item">
-                    <div class="container">
-                        <div class="row align-items-center">
-                            <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
-                                <div class="image hover-effect team-single-img ml-lg-0">
-                                    <!-- 2 be modified-->
-                                    <img src="svetlanacarstean.jpeg" alt="blog">
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
-                                <div class="skill-box-two">
-                                    <div class="main-title mb-5 text-lg-left wow fadeIn" data-wow-delay="300ms">
-                                        <h5>functie</h5> <!-- 2 be modified-->
-                                        <h2 class="ml-0">Svetlana Carstean</h2> <!-- 2 be modified-->
-                                        <p>asdfg</p>
-                                    </div>
-                                </div>
+        <br><br><br>
+        <div class="item">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
+                        <div class="image hover-effect team-single-img ml-lg-0">
+                            <!-- 2 be modified-->
+                            <img src="lenachilari.jpeg" alt="blog">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
+                        <div class="skill-box-two">
+                            <div class="main-title mb-5 text-lg-left wow fadeIn"
+                                 data-wow-delay="300ms">
+                                <h5></h5> <!-- 2 be modified-->
+                                <h2 class="ml-0">Lena Chilari</h2> <!-- 2 be modified-->
+                                <p> Sunt Lena Chilari, am 26 de ani și scriu poezie. Sunt
+                                    din satul Pepeni, raionul Sîngerei, Republica Moldova,
+                                    iar acum locuiesc la Cluj. Am publicat în Steaua, Vatra,
+                                    Echinox, Timpul, Apostrof și pe O mie de semne. Primul
+                                    meu volum se numește O cană de noviciok la bătrânețe și
+                                    este publicat la editura Tracus Arte, în 2020. Te aștept
+                                    la atelier să facem poezie și s-o citim cu voce
+                                    tare.</p>
                             </div>
                         </div>
                     </div>
                 </div>
+            </div>
+        </div>
 
-                <br><br><br>
-    <div class="item">
-                    <div class="container">
-                        <div class="row align-items-center">
-                            <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
-                                <div class="image hover-effect team-single-img ml-lg-0">
-                                    <!-- 2 be modified-->
-                                    <img src="luanaplesea.jpeg" alt="blog">
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
-                                <div class="skill-box-two">
-                                    <div class="main-title mb-5 text-lg-left wow fadeIn" data-wow-delay="300ms">
-                                        <h5>functie</h5> <!-- 2 be modified-->
-                                        <h2 class="ml-0">Luana Plesea</h2> <!-- 2 be modified-->
-                                        <p>asdfg</p>
-                                    </div>
-                                </div>
+        <br><br><br>
+        <div class="item">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
+                        <div class="image hover-effect team-single-img ml-lg-0">
+                            <!-- 2 be modified-->
+                            <img src="teonaFarmatu.jpeg" alt="blog">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
+                        <div class="skill-box-two">
+                            <div class="main-title mb-5 text-lg-left wow fadeIn"
+                                 data-wow-delay="300ms">
+                                <h5></h5> <!-- 2 be modified-->
+                                <h2 class="ml-0">Teona Farmatu</h2> <!-- 2 be modified-->
+                                <p> Teona Farmatu (n. 30.07.1999, Piatra-Neamț) este
+                                    masterandă în anul I la secția Studii literare românești
+                                    din cadrul Facultății de Litere, UBB. Scrie poezie și
+                                    cronică literară. A publicat texte în câteva reviste din
+                                    țară: Vatra, Echinox, Metacritic Journal for Comparative
+                                    Studies and Theory, Transilvania, Apostrof, Steaua,
+                                    Dacoromania litteraria, precum și pe blogul DLITE. A
+                                    citit poezie la Institutul Blecher și la Nepotu’ lui
+                                    Thoreau. În prezent, este redactor al revistei Echinox
+                                    și se dedică cercetării literare.</p>
                             </div>
                         </div>
                     </div>
                 </div>
+            </div>
+        </div>
 
-                <br><br><br>
-    <div class="item">
-                    <div class="container">
-                        <div class="row align-items-center">
-                            <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
-                                <div class="image hover-effect team-single-img ml-lg-0">
-                                    <!-- 2 be modified-->
-                                    <img src="elenazah.jpeg" alt="blog">
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
-                                <div class="skill-box-two">
-                                    <div class="main-title mb-5 text-lg-left wow fadeIn" data-wow-delay="300ms">
-                                        <h5>functie</h5> <!-- 2 be modified-->
-                                        <h2 class="ml-0">Elena Zah</h2> <!-- 2 be modified-->
-                                        <p>asdfg</p>
-                                    </div>
-                                </div>
+
+        <br><br><br>
+        <div class="item">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
+                        <div class="image hover-effect team-single-img ml-lg-0">
+                            <!-- 2 be modified-->
+                            <img src="claudiuIoanMaftei.jpeg" alt="blog">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
+                        <div class="skill-box-two">
+                            <div class="main-title mb-5 text-lg-left wow fadeIn"
+                                 data-wow-delay="300ms">
+                                <h5></h5> <!-- 2 be modified-->
+                                <h2 class="ml-0">Claudiu Ioan Maftei</h2>
+                                <!-- 2 be modified-->
+                                <p> Claudiu Ioan Maftei este student la masterul de
+                                    Lingvistică Computațională din Iași. A participat la
+                                    lecturi publice și de performance incluzând Maratonul de
+                                    poezie FILIT și Cozy Poetry Night. A publicat poezii in
+                                    revista Steaua. A fost colaborator la volumul Un om mai
+                                    important decât oamenii (Lucian Brad, OMG, 2020).</p>
                             </div>
                         </div>
                     </div>
                 </div>
+            </div>
+        </div>
+
+
+        <br><br><br>
+        <div class="item">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
+                        <div class="image hover-effect team-single-img ml-lg-0">
+                            <!-- 2 be modified-->
+                            <img src="florentinPopa.jpeg" alt="blog">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
+                        <div class="skill-box-two">
+                            <div class="main-title mb-5 text-lg-left wow fadeIn"
+                                 data-wow-delay="300ms">
+                                <h5></h5> <!-- 2 be modified-->
+                                <h2 class="ml-0">Florentin Popa</h2> <!-- 2 be modified-->
+                                <p> Florentin Popa (n. 1989) face parte din redacția Mafia
+                                    Sonetelor, o revistă independentă poeziei formale. Și-a
+                                    făcut debutul prin lucrarea „Trips, heroes & lovesongs”,
+                                    care a ajuns pe piață în 2014 și căreia i-a urmat
+                                    „Efrafa”. „Florentin Popa a apărut în poezia română ca
+                                    un OZN. A bombardat psihotronic, a plasat cipuri, a
+                                    modificat ADN-ul și subrutinele. Acum este deja un
+                                    clasic. Dar un clasic full de scheme de atac pe care
+                                    оncă nu le-a identificat nimeni.” - Mihai Iovănel</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <br><br><br>
+        <div class="item">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-6 col-md-12 col-sm-12 md-mb-5">
+                        <div class="image hover-effect team-single-img ml-lg-0">
+                            <!-- 2 be modified-->
+                            <img src="andreiDobos.jpeg" alt="blog">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12 col-sm-12 mx-auto d-inline-block text-left wow fadeInRight">
+                        <div class="skill-box-two">
+                            <div class="main-title mb-5 text-lg-left wow fadeIn"
+                                 data-wow-delay="300ms">
+                                <h5></h5> <!-- 2 be modified-->
+                                <h2 class="ml-0">Andrei Doboş</h2> <!-- 2 be modified-->
+                                <p> Andrei Doboş s-a născut la 6 august 1984, în Turda. Este absolvent al Facultăţii de Litere a Universităţii „Babeş-Bolyai” din Cluj-Napoca, iar în prezent urmează studii doctorale la aceeaşi universitate.  În perioada facultăţii a fost redactor la revista Echinox, apoi, între 2009 şi 2014, redactor la Editura Casa Cărţii de Ştiinţă din Cluj-Napoca. A publicat poeme şi articole în revistele România literară, Tribuna, Vatra, Echinox, Steaua etc.  A debutat editorial cu mănăştur story, Editura Vinea, 2007 (Premiul „Iustin Panţa”, 2008, şi nominalizare la Premiul pentru debut al Uniunii Scriitorilor din România, 2008). În 2011 a publicat volumul de versuri Inevitabil (Editura Casa de Pariuri Literare). În 2015 a publicat la Cartea Românească volumul Valea rea.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
     </div>
 </section>
 
+
+
 <!-- Team ends -->
 
-    <?php include 'footer.php' ?>
+<?php include 'footer.php' ?>
 
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
@@ -235,8 +339,8 @@
 <script src="js/bootstrap.min.js"></script>
 <!-- Appear JS File -->
 <script src="js/jquery.appear.js"></script>
-    <!-- Megamenu Js File -->
-    <script src="js/megamenu.js"></script>
+<!-- Megamenu Js File -->
+<script src="js/megamenu.js"></script>
 <!-- Isotop gallery -->
 <script src="js/isotope.pkgd.min.js"></script>
 <!-- Morphtext JS File -->
@@ -260,7 +364,7 @@
 <!-- Headroom Nav File -->
 <script src="js/headroom.js"></script>
 
-    <!--Revolution Slider-->
+<!--Revolution Slider-->
 <script src="js/revolution/jquery.themepunch.tools.min.js"></script>
 <script src="js/revolution/jquery.themepunch.revolution.min.js"></script>
 <script src="js/revolution/jquery.themepunch.revolution.contdown.min.js"></script>
