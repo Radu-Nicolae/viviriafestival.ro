@@ -329,7 +329,7 @@ $header->getHeader2();
         <div class="row">
             <div class="col-md-12">
                 <div class="main-title wow fadeIn" data-wow-delay="300ms">
-                    <h3 style="color:#d0920e; font-weight: 700">Proza:</h3>
+                    <h3 style="color:#d0920e; font-weight: 700">Proză:</h3>
                 </div>
             </div>
         </div>
@@ -464,7 +464,7 @@ $header->getHeader2();
         <div class="row">
             <div class="col-md-12">
                 <div class="main-title wow fadeIn" data-wow-delay="300ms">
-                    <h3 style="color:#d0920e; font-weight: 700">Invitați:</h3>
+                    <h3 style="color:#d0920e; font-weight: 700">Scenaristică:</h3>
                 </div>
             </div>
         </div>
